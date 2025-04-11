@@ -20,3 +20,16 @@ Cálculo: Usa un bucle while para multiplicar factorial por i y luego incrementa
 Salida: Imprime el valor de factorial.
     
     '''
+numero = int(input("Ingresa tu tontera: "))
+if numero > 0:
+    i = 1 #contador
+    y = 1 #acumulado
+    while i <= numero:
+        y = y * i
+        i +=1 # i = i + 1
+    print(y)
+
+elif numero == 0:
+    print("Factorial de 0 es 1")
+else:
+    print("Mala tu cuestion")
