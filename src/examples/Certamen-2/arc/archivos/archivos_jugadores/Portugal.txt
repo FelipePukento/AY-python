@@ -1,0 +1,26 @@
+Diogo Costa;Portero;FC Porto
+Rui Patrício;Portero;Roma
+José Sá;Portero;Wolverhampton
+Joao Cancelo;Defensor;Manchester City
+Diogo Dalot;Defensor;Manchester United
+Pepe;Defensor;FC Porto
+Rúben Dias;Defensor;Manchester City
+Danilo Pereira;Defensor;Paris Saint-Germain
+António Silva;Defensor;Benfica
+Nuno Mendes;Defensor;Paris Saint-Germain
+Raphael Guerreiro;Defensor;Borussia Dortmund
+William Carvalho;Mediocampista;Betis
+Rúben Neves;Mediocampista;Wolverhampton
+Palhinha;Mediocampista;Fulham
+Bruno Fernandes;Mediocampista;Manchester United
+Vitinha;Mediocampista;Paris Saint-Germain
+Otávio;Mediocampista;FC Porto
+Matheus Nunes;Mediocampista;Wolverhampton
+Bernardo Silva;Mediocampista;Manchester City
+Joao Mario;Mediocampista;Benfica
+Cristiano Ronaldo;Delantero;Manchester United
+Joao Félix;Delantero;Atlético de Madrid
+Rafael Leao;Delantero;Milan
+Ricardo Horta;Delantero;Braga
+André Silva;Delantero;RB Leipzig
+Gonçalo Ramos;Delantero;Benfica

@@ -1,0 +1,26 @@
+James Pantemis;Portero;CF Montreal
+Milan Borjan;Portero;Red Star Belgrado
+Dayne St. Clair;Portero;Minnesota United
+Samuel Adekugbe;Defensor;Hatayspor
+Joel Waterman;Defensor;CF Montreal
+Alistair Johnston;Defensor;CF Montreal
+Richie Laryea;Defensor;Toronto FC
+Kamal Miller;Defensor;CF Montreal
+Steven Vitoria;Defensor;GD Chaves
+Derek Cornelius;Defensor;Panetolikos
+Liam Fraser;Mediocampista;KMSK Deinze
+Ismael Koné;Mediocampista;CF Montreal
+Mark Anthony Kaye;Mediocampista;Toronto FC
+David Wotherspoon;Mediocampista;St. Johnstone
+Jonathan Osorio;Mediocampista;Toronto FC
+Atiba Hutchinson;Mediocampista;Besiktas
+Stephen Eustaquio;Mediocampista;FC Porto
+Samuel Piette;Mediocampista;CF Montreal
+Liam Millar;Delantero;Basilea
+Lucas Cavallini;Delantero;Vancouver Whitecaps
+Ike Ugbo;Delantero;Troyes
+Tajon Buchanan;Delantero;Brujas
+Jonathan David;Delantero;Lille
+Cyle Larin;Delantero;Brujas
+Alphonso Davies;Delantero;Bayern Munich
+Junior Hoilett;Delantero;Reading FC

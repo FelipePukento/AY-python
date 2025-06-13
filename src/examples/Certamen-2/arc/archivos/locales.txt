@@ -1,0 +1,28 @@
+Restaurant Ming Feng;comida china;9,2;3.9;$$
+Telepizza;pizza;3,9;2.9;$
+Sushiban;sushi;10,1;4.1;$$$
+Pastamore;italiano;10,10;5.0;$$$
+Puerto Ceviche;mariscos;10,1;3.2;$$
+Domino's Pizza;pizza;6,3;3.9;$$
+Ruby Tuesday;hamburguesas;6,4;4.5;$$$$
+Il Mascarpone;italiano;3,8;4.5;$$$$
+Pulmay;mariscos;12,6;5.0;$$$$
+Domani;pizza;10,12;5.0;$$$$$
+L’ Mia Roma;italiano;15,5;3.5;$$
+Carl's Jr.;hamburguesas;10,10;4.8;$$$
+La Cevichería;mariscos;4,3;4.5;$$$$$
+Lasagna Factory;italiano;8,4;2.5;$$
+Burger King;hamburguesas;8,1;3.4;$
+NIU Sushi;sushi;4,2;4.5;$$$
+McDonald's;hamburguesas;4,3;3.2;$
+Nueva China;comida china;2,2;4.9;$$$$$
+Melt Pizzas;pizza;6,6;3.5;$$
+Sakura;sushi;3,3;4.3;$$$$$
+Pizza Hut;pizza;1,6;4.2;$$$
+Peces Gordos;mariscos;15,2;4.2;$$$
+P.F. Chang's;comida china;6,7;4.9;$$$$
+SushiBlues;sushi;1,10;3.2;$$
+China Express;comida china;5,2;2.9;$
+Little Caesars Pizza;pizza;2,5;4.0;$
+Johnny Rockets;hamburguesas;10,1;4.1;$$$
+Papa John's;pizza;6,1;4.1;$$$$

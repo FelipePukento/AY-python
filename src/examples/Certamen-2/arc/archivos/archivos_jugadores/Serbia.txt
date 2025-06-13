@@ -1,0 +1,26 @@
+Vanja Milinković-Savić;Portero;Torino
+Predrag Rajkovic;Portero;Mallorca
+Marko Dmitrovic;Portero;Sevilla
+Milos Veljkovic;Defensor;Werder Bremen
+Strahinja Pavlovic;Defensor;RB Salzburgo
+Strahinja Erakovic;Defensor;Estrella Roja
+Nikola Milenkovic;Defensor;Fiorentina
+Stefan Mitrovic;Defensor;Getafe
+Filip Mladenovic;Defensor;Legia Varsovia
+Srdjan Babic;Defensor;Almería
+Nemanja Gudelj;Mediocampista;Sevilla
+Sergej Milinković-Savić;Mediocampista;Lazio
+Sasa Lukic;Mediocampista;Torino
+Filip Kostic;Mediocampista;Juventus
+Uros Racic;Mediocampista;Sporting Braga
+Ivan Ilic;Mediocampista;Hellas Verona
+Andrija Zivkovic;Mediocampista;PAOK
+Darko Lazovic;Mediocampista;Hellas Verona
+Nemanja Maksimovic;Mediocampista;Getafe
+Marko Grujic;Mediocampista;FC Porto
+Aleksandar Mitrovic;Delantero;Fulham
+Filip Djuricic;Delantero;Sampdoria
+Nemanja Radonjic;Delantero;Torino
+Luka Jovic;Delantero;Fiorentina
+Dusan Tadic;Delantero;Ajax
+Dusan Vlahovic;Delantero;Juventus

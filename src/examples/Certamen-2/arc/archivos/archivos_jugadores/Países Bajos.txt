@@ -1,0 +1,26 @@
+Justin Bijlow;Portero;Feyenoord
+Andries Noppert;Portero;Heerenveen
+Remko Pasveer;Portero;Ajax
+Nathan Aké;Defensor;Manchester City
+Virgil van Dijk;Defensor;Liverpool
+Jeremie Frimpong;Defensor;Bayer Leverkusen
+Stefan de Vrij;Defensor;Inter
+Daley Blind;Defensor;Ajax
+Matthijs de Ligt;Defensor;Bayern Munich
+Tyrell Malacia;Defensor;Manchester United
+Jurrien Timber;Defensor;Ajax
+Denzel Dumfries;Defensor;Inter
+Frenkie De Jong;Mediocampista;Barcelona
+Davy Klaassen;Mediocampista;Ajax
+Xavi Simons;Mediocampista;PSV
+Steven Berghuis;Mediocampista;Ajax
+Marten de Roon;Mediocampista;Atalanta
+Kenneth Taylor;Mediocampista;Ajax
+Teun Koopmeiners;Mediocampista;Atalanta
+Memphis Depay;Delantero;Barcelona
+Steven Bergwijn;Delantero;Ajax
+Cody Gakpo;Delantero;PSV
+Wout Weghorst;Delantero;Besiktas
+Vincent Janssen;Delantero;Royal Antwerp
+Luuk de Jong;Delantero;PSV
+Noa Lang;Delantero;Brujas

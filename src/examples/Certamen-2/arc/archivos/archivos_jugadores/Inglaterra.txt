@@ -1,0 +1,26 @@
+Jordan Pickford;Portero;Everton
+Nick Pope;Portero;Newcastle United
+Aaron Ramsdale;Portero;Arsenal
+Kyle Walker;Defensor;Manchester City
+John Stones;Defensor;Manchester City
+Harry Maguire;Defensor;Manchester United
+Eric Dier;Defensor;Tottenham
+Kieran Trippier;Defensor;Newcastle United
+Luke Shaw;Defensor;Manchester United
+Trent Alexander-Arnold;Defensor;Liverpool
+Conor Coady;Defensor;Everton
+Ben White;Defensor;Arsenal
+Jordan Henderson;Mediocampista;Liverpool
+Declan Rice;Mediocampista;West Ham
+Mason Mount;Mediocampista;Chelsea
+Kalvin Phillips;Mediocampista;Manchester City
+Jude Bellingham;Mediocampista;Borussia Dortmund
+Conor Gallagher;Mediocampista;Chelsea
+James Maddison;Delantero;Leicester City
+Jack Grealish;Delantero;Manchester City
+Phil Foden;Delantero;Manchester City
+Harry Kane;Delantero;Tottenham
+Raheem Sterling;Delantero;Chelsea
+Marcus Rashford;Delantero;Manchester United
+Bukayo Saka;Delantero;Arsenal
+Callum Wilson;Delantero;Newcastle United

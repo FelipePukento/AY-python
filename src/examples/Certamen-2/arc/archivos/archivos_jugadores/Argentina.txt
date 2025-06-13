@@ -1,0 +1,26 @@
+Emiliano Martínez;Arquero;Aston Villa
+Gerónimo Rulli;Arquero;Villarreal
+Franco Armani;Arquero;River Plate
+Gonzalo Montiel;Defensor;Sevilla
+Nicolás Otamendi;Defensor;Benfica
+Nahuel Molina Lucero;Defensor;Atlético de Madrid
+Cristian Romero;Defensor;Tottenham
+Germán Pezzella;Defensor;Betis
+Lisandro Martínez;Defensor;Manchester United
+Marcos Acuña;Defensor;Sevilla
+Nicolás Tagliafico;Defensor;Lyon
+Juan Foyth;Defensor;Villarreal
+Leandro Paredes;Mediocampista;Juventus
+Guido Rodriguez;Mediocampista;Betis
+Rodrigo De Paul;Mediocampista;Atlético de Madrid
+Exequiel Palacios;Mediocampista;Bayer Leverkusen
+Alexis MacAllister;Mediocampista;Brighton
+Enzo Fernández;Mediocampista;Benfica
+Ángel Di María;Mediocampista;Juventus
+Alejandro Gómez;Mediocampista;Sevilla
+Thiago Almada**;Mediocampista;Atlanta United
+Ángel Correa*;Delantero;Atlético de Madrid
+Julián Álvarez;Delantero;Manchester City
+Lautaro Martínez;Delantero;Inter
+Lionel Messi;Delantero;Paris Saint-Germain
+Paulo Dybala;Delantero;Roma

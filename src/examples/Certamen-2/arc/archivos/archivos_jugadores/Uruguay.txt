@@ -1,0 +1,26 @@
+Fernando Muslera;Portero;Galatasaray
+Sergio Rochet;Portero;Nacional
+Sebastián Sosa;Portero;Independiente
+Ronald Araújo;Defensor;Barcelona
+José M. Giménez;Defensor;Atlético de Madrid
+Sebastián Coates;Defensor;Sporting Lisboa
+Diego Godín;Defensor;Vélez
+Martín Cáceres;Defensor;LA Galaxy
+Guillermo Varela;Defensor;Flamengo
+José L. Rodríguez;Defensor;Nacional
+Mathias Olivera;Defensor;Napoli
+Matías Viña;Defensor;Roma
+Lucas Torreira;Mediocampista;Galatasaray
+Manuel Ugarte;Mediocampista;Sporting Lisboa
+Matías Vecino;Mediocampista;Lazio
+Rodrigo Bentancur;Mediocampista;Tottenham
+Federico Valverde;Mediocampista;Real Madrid
+Facundo Pellistri;Mediocampista;Manchester United
+Agustín Canobbio;Mediocampista;Athletico Paranaense
+Nicolás De la Cruz;Mediocampista;River Plate
+Giorgian De Arrascaeta;Mediocampista;Flamengo
+Maximiliano Gómez;Delantero;Trabzonspor
+Facundo Torres;Delantero;Orlando City
+Luis Suárez;Delantero;Nacional
+Edinson Cavani;Delantero;Valencia
+Darwin Núñez;Delantero;Liverpool

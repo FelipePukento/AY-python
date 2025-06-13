@@ -1,0 +1,25 @@
+Hugo Lloris;Portero;Tottenham
+Steve Mandanda;Portero;Stade Rennois
+Alphonse Aréola;Portero;West Ham
+Raphael Varane;Defensor;Manchester United
+Jules Koundé;Defensor;Barcelona
+Theo Hernández;Defensor;Milan
+Dayot Upamecano;Defensor;Bayern Munich
+Ibrahima Konaté;Defensor;Liverpool
+Axel Disasi*;Defensor;Mónaco
+William Saliba;Defensor;Arsenal
+Benjamin Pavard;Defensor;Bayern Munich
+Lucas Hernández;Defensor;Bayern Munich
+Eduardo Camavinga;Volante;Real Madrid
+Aurélien Tchouaméni;Volante;Real Madrid
+Kingsley Coman;Volante;Bayern Munich
+Adrien Rabiot;Volante;Juventus
+Youssouf Fofana;Volante;Mónaco
+Mattéo Guendouzi;Volante;Marsella
+Jordan Veretout;Volante;Marsella
+Kylian Mbappé;Delantero;Paris Saint-Germain
+Antoine Griezmann;Delantero;Atlético de Madrid
+Ousmane Dembélé;Delantero;Barcelona
+Olivier Giroud;Delantero;Milan
+Marcus Thuram;Delantero;Borussia Monchengladbach
+Randal Kolo Muani**;Delantero;Eintracht Frankfurt

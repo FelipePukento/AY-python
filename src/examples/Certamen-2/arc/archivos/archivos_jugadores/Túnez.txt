@@ -1,0 +1,26 @@
+Aymen Dahmen;Arquero;CS Sfaxien
+Mouez Hasen;Arquero;Club Africain
+Balbouli;Arquero;Etoile du Sahel
+Bechir Ben Said;Arquero;US Monastir
+Mohamed Drager;Defensor;Luzern
+Wajdi Kechrida;Defensor;Atromitos
+Bilel Ifa;Defensor;Kuwait SC
+Montassar Talbi;Defensor;Lorient
+Dylan Bronn;Defensor;Salernitana
+Yassine Meriah;Defensor;ES Tunis
+Nader Ghandri;Defensor;Club Africain
+Ali Maaloul;Defensor;Al Ahly
+Ali Abdi;Defensor;Caen
+Ellyes Skhiri;Mediocampista;Koln
+Aissa Laidouni;Mediocampista;Ferencvaros
+Ferjani Sassi;Mediocampista;Al-Duhail
+Ghailene Chaalali;Mediocampista;ES Tunis
+Mohamed Ali Ben Romdhane;Mediocampista;ES Tunis
+Hannibal Mejbri;Mediocampista;Birmingham
+Seifeddine Jaziri;Delantero;Zamalek
+Naim Sliti;Delantero;Al-Ettifaq
+Taha Yassine Khenissi;Delantero;Kuwait SC
+Anis Ben Slimane;Delantero;Brondby
+Issam Jebali;Delantero;OB
+Wahbi Khazri;Delantero;Montpellier
+Youssef Msakni;Delantero;Al Arabi

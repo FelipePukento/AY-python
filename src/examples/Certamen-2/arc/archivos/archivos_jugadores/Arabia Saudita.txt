@@ -1,0 +1,26 @@
+Mohammed Al-Owais;Portero;Al-Hilal
+Mohammed Al Rubaei;Portero;Al-Ahli
+Nawaf Al-Aqidi;Portero;Al-Nassr
+Yasser Al-Shahrani;Defensor;Al-Hilal
+Mohammed Al-Breik;Defensor;Al-Hilal
+Ali Al-Bulaihi;Defensor;Al-Hilal
+Sultan Al-Ghanam;Defensor;Al-Nassr
+Saud Abdulhamid;Defensor;Al-Hilal
+Abdulelah Al-Amri;Defensor;Al-Nassr
+Hassan Tambakti;Defensor;Al-Shabab
+Abdullah Madu;Defensor;Al-Nassr
+Salem Al-Dawsari;Mediocampista;Al-Hilal
+Salman Al-Faraj;Mediocampista;Al-Hilal
+Abdullah Otayf;Mediocampista;Al-Hilal
+Hattan Bahebri;Mediocampista;Al-Shabab
+Mohamed Kanno;Mediocampista;Al-Hilal
+Abdulellah Al-Malki;Mediocampista;Al-Hilal
+Sami Al-Najei;Mediocampista;Al-Nassr
+Ali Al-Hassan;Mediocampista;Al-Nassr
+Nasser Al-Dawsari;Mediocampista;Al-Hilal
+Riyadh Sharahili;Mediocampista;Abha
+Abdulrahman Al-Aboud;Mediocampista;Al-Ittihad
+Firas Al-Buraikan;Delantero;Al-Fateh
+Nawaf Al-Abed*;Delantero;Al-Shabab
+Saleh Al-Shehri;Delantero;Al-Hilal
+Haitham Asiri;Delantero;Al-Hilal

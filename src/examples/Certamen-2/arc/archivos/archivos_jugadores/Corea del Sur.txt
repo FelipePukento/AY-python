@@ -1,0 +1,26 @@
+Kim Seung-gyu;Portero;Al-Shabab
+Jo Hyeon-woo;Portero;Ulsan Hyundai
+Song Bum-keun;Portero;Jeonbuk Hyundai Motors
+Kim Young-gwon;Defensor;Ulsan Hyundai
+Kim Jin-su;Defensor;Jeonbuk Hyundai Motors
+Hong Chul;Defensor;Daegu FC
+Kim Min-jae;Defensor;Napoli
+Kwon Kyung-won;Defensor;Gamba Osaka
+Kim Moon-hwan;Defensor;Jeonbuk Hyundai Motors
+Kim Tae-hwan;Defensor;Ulsan Hyundai
+Cho Yu-min;Defensor;Daejon Hana Citizen
+Yoon Jong-gyu;Defensor;FC Seúl
+Son Heung-min;Mediocampista;Tottenham
+Jung Woo-young;Mediocampista;Al-Sadd
+Lee Jae-sung;Mediocampista;Mainz 05
+Hwang Hee-chan;Mediocampista;Wolves
+Kwon Chang-hoon;Mediocampista;Gimcheon Sangmu
+Hwang In-beom;Mediocampista;Olympiacos
+Na Sang-ho;Mediocampista;FC Seúl
+Son Jun-ho;Mediocampista;Shandong Taishan
+Paik Seung-ho;Mediocampista;Jeonbuk Hyundai Motors
+Song Min-kyu;Mediocampista;Jeonbuk Hyundai Motors
+Jeong Woo-yeong;Mediocampista;Friburgo
+Lee Kang-in;Mediocampista;Mallorca
+Hwang Ui-jo;Delantero;Olympiacos
+Cho Gue-sung;Delantero;Jeonbuk Hyundai Motors

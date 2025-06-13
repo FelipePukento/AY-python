@@ -1,0 +1,26 @@
+Edouard Mendy;Portero;Chelsea
+Alfred Gomis;Portero;Rennes
+Seny Dieng;Portero;Queens Park Rangers
+Kalidou Koulibaly;Defensor;Chelsea
+Pape Abou Cisse;Defensor;Olympiacos
+Abdou Diallo;Defensor;RB Leipzig
+Fodé Ballo-Touré;Defensor;Milan
+Formose Mendy;Defensor;Amiens
+Ismail Jakobs;Defensor;Monaco
+Youssouf Sabaly;Defensor;Betis
+Moussa N'Diaye*;Defensor;Anderlecht
+Idrissa Gana Gueye;Mediocampista;Everton
+Cheikhou Kouyaté;Mediocampista;Nottingham Forest
+Nampalys Mendy;Mediocampista;Leicester City
+Pape Gueye;Mediocampista;Marsella
+Pape Matar Sarr;Mediocampista;Tottenham
+Mamadou Loum N'Diaye;Mediocampista;Reading
+Moustapha Name;Mediocampista;Pafos
+Pathe Ciss;Mediocampista;Rayo Vallecano
+Ismalia Sarr;Delantero;Watford
+Boulaye Dia;Delantero;Salernitana
+Bamba Dieng;Delantero;Marsella
+Iliman Ndiaye;Delantero;Sheffield United
+Famara Diedhou;Delantero;Alanyaspor
+Krepin Diatta;Delantero;Monaco
+Nicolas Jackson;Delantero;Villarreal

@@ -1,0 +1,26 @@
+Moisés Ramírez;Portero;Independiente del Valle
+Alexander Domínguez;Portero;LDU Quito
+Hernán Galíndez;Portero;Aucas
+Piero Hincapié;Defensor;Bayer Leverkusen
+Robert Arboleda;Defensor;São Paulo
+Pervis Estupiñán;Defensor;Brighton
+Angelo Preciado;Defensor;KRC Genk
+Jackson Porozo;Defensor;Troyes
+Xavier Arreaga;Defensor;Seattle Sounders
+Diego Palacios;Defensor;LAFC
+Félix Torres;Defensor;Santos
+William Pacho;Defensor;Royal Amberes
+Carlos Gruezo;Mediocampista;Augsburg
+José Cifuentes;Mediocampista;LAFC
+Alan Franco;Mediocampista;Talleres
+Moisés Caicedo;Mediocampista;Brighton
+Ángel Mena;Mediocampista;León
+Jeremy Sarmiento;Mediocampista;Brighton
+Jhegson Méndez;Mediocampista;LAFC
+Ayrton Preciado;Mediocampista;Santos
+Gonzalo Plata;Mediocampista;Valladolid
+Romario Ibarra;Mediocampista;Pachuca
+Djorkaeff Reasco;Delantero;Newell's
+Kevin Rodríguez;Delantero;Imbabura
+Michael Estrada;Delantero;Cruz Azul
+Enner Valencia;Delantero;Fenerbahce

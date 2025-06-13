@@ -1,0 +1,26 @@
+Manuel Neuer;Portero;Bayern Munich
+Marc-Andre Ter Stegen;Portero;Barcelona
+Kevin Trapp;Portero;Eintracht Frankfurt
+Armel Bella-Kotchap;Defensor;Southampton
+Matthias Ginter;Defensor;Friburgo
+Cristian Gunter;Defensor;Friburgo
+Thilo Kehrer;Defensor;West Ham
+Lukas Klostermann;Defensor;RB Leipzig
+David Raum;Defensor;RB Leipzig
+Antonio Rudiger;Defensor;Real Madrid
+Nico Schlotterback;Defensor;Borussia Dortmund
+Niklas Sule;Defensor;Borussia Dortmund
+Mario Gotze;Mediocampista;Eintracht Frankfurt
+Julian Brandt;Mediocampista;Borussia Dortmund
+Jamal Musiala;Mediocampista;Bayern Munich
+Leon Goretzka;Mediocampista;Bayern Munich
+Ilkay Gundogan;Mediocampista;Manchester City
+Kai Havertz;Mediocampista;Chelsea
+Jonas Hofmann;Mediocampista;Borussia Monchengladbach
+Joshua Kimmich;Mediocampista;Bayern Munich
+Youssoufa Moukoko;Delantero;Borussia Dortmund
+Thomas Muller;Delantero;Bayern Munich
+Leroy Sané;Delantero;Bayern Munich
+Niclas Fullkrug;Delantero;Werder Bremen
+Serge Gnabry;Delantero;Bayern Munich
+Karim Adeyemi;Delantero;Borussia Dortmund

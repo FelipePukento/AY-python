@@ -1,0 +1,26 @@
+Kasper Schmeichel;Portero;Niza
+Frederik Ronnow;Portero;Unión Berlín
+Oliver Christensen;Portero;Hertha Berlín
+Simon Kjaer;Defensor;Milan
+Andreas Christensen;Defensor;Barcelona
+Jens Stryger Larsen;Defensor;Trabzonspor
+Daniel Wass;Defensor;Brondby
+Joakim Maehle;Defensor;Atalanta
+Joachim Andersen;Defensor;Crystal Palace
+Rasmus Kristensen;Defensor;Leeds United
+Victor Nelsson;Defensor;Galatasaray
+Alexander Bah;Defensor;Bénfica
+Christian Eriksen;Volante;Manchester United
+Thomas Delaney;Volante;Sevilla
+Pierre-Emile Hojbjerg;Volante;Tottenham Hotspur
+Mathias Jensen;Volante;Brentford
+Christian Norgaard;Volante;Brentford
+Yussuf Poulsen;Delantero;RB Leipzig
+Martin Braithwaite;Delantero;Espanyol
+Andreas Cornelius;Delantero;FC Copenhagen
+Kasper Dolberg;Delantero;Sevilla
+Andreas Skov Olsen;Delantero;Brujas
+Mikkel Damsgaard;Delantero;Brentford
+Jonas Wind;Delantero;Wolfsburgo
+Robert Skov;Delantero;Hoffenheim
+Jesper Lindstrom;Delantero;Eintracht Frankfurt

@@ -1,0 +1,7 @@
+2019:Andrea Godoy:Lima,Quito
+2019:Pedro Meza:Lugano,Lima,Roma,Florencia
+2018:Andrea Godoy:Venecia,New York
+2018:Pedro Meza:Lima,Milan,Roma
+2017:Federico Vásquez:Milan,Miami
+2019:Fernanda Montoya:Madrid,New York,Praga
+2019:Federico Vásquez:Lima,Milan,New York

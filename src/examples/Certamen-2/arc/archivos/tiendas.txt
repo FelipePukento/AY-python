@@ -1,0 +1,3 @@
+IWIbella;Centro,1,1:Norte,3,10
+Kiwey;Centro,0,0:Sur,-2,-15:Poniente,-10,0
+Almacenes KIWI;Central,1,2

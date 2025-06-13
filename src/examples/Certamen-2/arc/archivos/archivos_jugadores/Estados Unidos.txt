@@ -1,0 +1,26 @@
+Ethan Horvat;Portero;Luton Town
+Sean Johnson;Portero;New York City FC
+Matt Turner;Portero;Arsenal
+Cameron Carter-Vickers;Defensor;Celtic
+Sergiño Dest;Defensor;Milan
+Aaron Long;Defensor;New York Red Bulls
+Shaq Moore;Defensor;Nashville SC
+Tim Ream;Defensor;Fulham
+Antonee Robinson;Defensor;Fulham
+Joe Scally;Defensor;B. Mönchengladbach
+DeAndre Yedlin;Defensor;Inter Miami CF
+Walker Zimmerman;Defensor;Nashville SC
+Brenden Aaronson;Mediocampista;Leeds United
+Kellyn Acosta;Mediocampista;LAFC
+Tyler Adams;Mediocampista;Leeds United
+Luca de la Torre;Mediocampista;Celta de Vigo
+Weston McKennie;Mediocampista;Juventus
+Yunus Musah;Mediocampista;Valencia
+Cristian Roldan;Mediocampista;Seattle Sounders
+Jesús Ferreira;Delantero;FC Dallas
+Jordan Morris;Delantero;Seattle Sounders
+Christian Pulisic;Delantero;Chelsea
+Gio Reyna;Delantero;Borussia Dortmund
+Josh Sargent;Delantero;Norwich City
+Tim Weah;Delantero;Lille
+Haji Wright;Delantero;Antalyaspor

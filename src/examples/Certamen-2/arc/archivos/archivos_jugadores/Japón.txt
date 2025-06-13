@@ -1,0 +1,26 @@
+Eiji Kawashima;Portero;Estrasburgo
+Shuichi Gonda;Portero;Shimizu E-pulse
+Daniel Schmidt;Portero;Sint-Truiden
+Yuto Nagatomo;Defensor;FC Tokyo
+Maya Yoshida;Defensor;Schalke 04
+Hiroki Sakai;Defensor;Urawa Reds
+Shogo Taniguchi;Defensor;Kawasaki Frontale
+Miki Yamane;Defensor;Kawasaki Frontale
+Ko Itakura;Defensor;Borussia Monchengladbach
+Hiroki Ito;Defensor;Stuttgart
+Takehiro Tomiyasu;Defensor;Arsenal
+Gaku Shibasaki;Volante;Leganés
+Wataru Endo;Volante;Stuttgart
+Junya Ito;Volante;Reims
+Ritsu Doan;Volante;Friburgo
+Takumi Minamino;Volante;Mónaco
+Hidemasa Morita;Volante;Sporting Lisboa
+Daichi Kamada;Volante;Eintracht Frankfurt
+Yuki Soma;Volante;Nagoya Grampus
+Kaoru Mitoma;Volante;Brighton
+Ao Tanaka;Volante;Fortuna Düsseldorf
+Takefusa Kubo;Volante;Real Sociedad
+Daizen Maeda;Delantero;Celtic
+Takuma Asano;Delantero;Bochum
+Ayase Ueda;Delantero;Círculo de Brujas
+Shuto Machino*;Delantero;Shonan Bellmare

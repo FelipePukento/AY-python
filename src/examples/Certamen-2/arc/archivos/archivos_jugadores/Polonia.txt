@@ -1,0 +1,26 @@
+Kamil Grabara*;Arquero;FC Copenhagen
+Łukasz Skorupski;Arquero;Bolonia
+Wojciech Szczęsny;Arquero;Juventus
+Robert Gumny;Defensor;Augsburg
+Nicola Zalewski;Defensor;Roma
+Jan Bednarek;Defensor;Aston Villa
+Bartosz Bereszyński;Defensor;Sampdoria
+Kamil Glik;Defensor;Benevento
+Matty Cash;Defensor;Aston Villa
+Mateusz Wieteska;Defensor;Clermont
+Jakub Kiwior;Defensor;Spezia
+Artur Jędrzejczyk;Defensor;Legia Varsovia
+Krystian Bielik;Mediocampista;Birmingham
+Przemysław Frankowski;Mediocampista;Lens
+Kamil Grosicki;Mediocampista;Pogon Szczecin
+Jakub Kamiński;Mediocampista;Wolfsburgo
+Grzegorz Krychowiak;Mediocampista;Al-Shabab
+Michał Skóraś;Mediocampista;Lech Poznan
+Damian Szymański;Mediocampista;AEK Atenas
+Sebastian Szymański;Mediocampista;Feyenoord
+Piotr Zieliński;Mediocampista;Napoli
+Szymon Żurkowski;Mediocampista;Fiorentina
+Robert Lewandowski;Delantero;Barcelona
+Arkadiusz Milik;Delantero;Juventus
+Krzysztof Piątek;Delantero;Salernitana
+Karol Świderski;Delantero;Charlotte

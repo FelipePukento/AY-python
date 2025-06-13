@@ -1,0 +1,25 @@
+Alireza Beiranvand;Portero;Persépolis
+Amir Abedzadeh;Portero;Ponferradina
+Hossein Hosseini;Portero;Esteghlal
+Payam Niazmand;Portero;Sepahan
+Majid Hosseini;Defensor;Kayserispor
+Hossein Kanaani;Defensor;Al-Ahli SC
+Shoja Khalilzadeh;Defensor;Al-Ahli SC
+Morteza Pouraliganji;Defensor;Persépolis
+Sadegh Moharrami;Defensor;Dinamo Zagreb
+Milad Mohammadi;Defensor;AEK Atenas
+Ehsan Hajsafi;Defensor;AEK Atenas
+Ramin Rezaeian;Defensor;Sepahan
+Abolfazl Jalali;Defensor;Esteghlal
+Saeid Ezatolahi;Mediocampista;Vejle BK
+Ali Karimi;Mediocampista;Kayserispor
+Ahmad Nourollahi;Mediocampista;Shabab Dubai
+Rouzbeh Cheshmi;Mediocampista;Esteghlal
+Saman Ghoddos;Mediocampista;Brentford
+Vahid Amiri;Delantero;Persépolis
+Alireza Jahanbakhsh;Delantero;Feyenoord
+Ali Gholizadeh;Delantero;RSC Charleroi
+Mehdi Torabi;Delantero;Persépolis
+Sardar Azmoun;Delantero;Bayer Leverkusen
+Mehdi Taremi;Delantero;FC Porto
+Karim Ansarifard;Delantero;Omonia Nicosia

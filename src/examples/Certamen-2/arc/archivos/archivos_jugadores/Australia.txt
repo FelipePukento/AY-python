@@ -1,0 +1,26 @@
+Mathew Ryan;Portero;FC Copenhagen
+Andrew Redmayne;Portero;Sydney FC
+Danny Vukovic;Portero;Central Coast Mariners
+Aziz Behich;Defensor;Dundee United
+Milos Degenek;Defensor;Columbus Crew
+Thomas Deng;Defensor;Aibirex Niigata
+Joel King;Defensor;Odense Boldklub
+Nathaniel Atkinson;Defensor;Hearts
+Fran Karacic;Defensor;Brescia
+Harry Souttar;Defensor;Stoke City
+Kye Rowles;Defensor;Hearts
+Craig Goodwin;Defensor;Adelaide United
+Aaron Mooy;Volante;Celtic
+Jackson Irvine;Volante;St. Pauli
+Ajdin Hrustic;Volante;Hellas Verona
+Bailey Wright;Volante;Sunderland
+Cameron Devlin;Volante;Hearts
+Riley McGree;Volante;Middlesbrough
+Keanu Baccus;Volante;St. Mirren
+Awer Mabil;Delantero;Cádiz
+Mathew Leckie;Delantero;Melbourne City
+Marco Tilio;Delantero;Melbourne City
+James Maclaren;Delantero;Melbourne City
+Jason Cummings;Delantero;Central Coast Mariners
+Mitchell Duke;Delantero;Fagiano Okayama
+Garang Kuol;Delantero;Central Coast Mariners

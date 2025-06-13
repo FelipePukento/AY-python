@@ -1,0 +1,7 @@
+2019/12/17:Valparaiso:Chercan,Pelicano
+2019/12/15:Santiago:Zorzal,Chercan,Paloma,Tenca
+2019/12/19:Valparaiso:Gaviota,Colibri
+2019/12/20:Santiago:Chercan,Loica,Paloma
+2019/12/14:Curico:Loica,Queltehue
+2019/12/17:Valdivia:Cisne,Colibri,Cormoran
+2019/12/15:Curico:Chercan,Loica,Colibri

@@ -1,0 +1,26 @@
+Unai Simón;Portero;Athletic Bilbao
+Robert Sánchez;Portero;Brighton
+David Raya;Portero;Brentford
+Jordi Alba;Defensor;Barcelona
+Daniel Carvajal;Defensor;Real Madrid
+Eric García;Defensor;Barcelona
+Aymeric Laporte;Defensor;Manchester City
+César Azpilicueta;Defensor;Chelsea
+Pau Torres;Defensor;Villarreal
+Alejandro Balde;Defensor;Barcelona
+Hugo Guillamón;Defensor;Valencia
+Pedri;Mediocampista;Barcelona
+Gavi;Mediocampista;Barcelona
+Sergio Busquets;Mediocampista;Barcelona
+Rodri;Mediocampista;Manchester City
+Marcos Llorente;Mediocampista;Atlético de Madrid
+Koke;Mediocampista;Atlético de Madrid
+Carlos Soler;Mediocampista;Paris Saint-Germain
+Nico Williams;Delantero;Athletic Bilbao
+Yéremy Pino;Delantero;Villarreal
+Ansu Fati;Delantero;Barcelona
+Ferran Torres;Delantero;Barcelona
+Marco Asensio;Delantero;Real Madrid
+Álvaro Morata;Delantero;Atlético de Madrid
+Dani Olmo;Delantero;RB Leipzig
+Pablo Sarabia;Delantero;Paris Saint-Germain

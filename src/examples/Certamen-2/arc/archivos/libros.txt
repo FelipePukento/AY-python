@@ -1,0 +1,7 @@
+2019:Andrea:Los Detectives Salvajes,Pedro Páramo
+2019:Pedro:Cien años de soledad,Los Detectives Salvajes,2666,El reino de este mundo
+2018:Andrea:Canto general,Rayuela
+2017:Pedro:Los Detectives Salvajes,La casa de los espíritus,2666
+2018:Federico:La casa de los espíritus,Un viejo que leía novelas de amor
+2019:Fernanda:La tregua,Rayuela,El laberinto de la soledad
+2017:Federico:Los Detectives Salvajes,La casa de los espíritus,Rayuela

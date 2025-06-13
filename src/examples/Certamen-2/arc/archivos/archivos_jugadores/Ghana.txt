@@ -1,0 +1,26 @@
+Lawrence Ati Zigi;Arquero;St. Gallen
+Abdul Manaf Nurudeen;Arquero;Eupen
+Ibrahim Danlad;Arquero;Berekum Chelsea
+Tariq Lamptey;Defensor;Tariq Lamptey
+Alidu Seidu;Defensor;Clermont Foot
+Alexander Djiku;Defensor;Estrasburgo
+Gideon Mensah;Defensor;Auxerre
+Dennis Odoi;Defensor;Brujas
+Daniel Amartey;Defensor;Leicester City
+Mohammed Salisu;Defensor;Southampton
+Joseph Aidoo;Defensor;Celta de Vigo
+Baba Abdul Rahman;Defensor;Reading
+Andre Ayew;Mediocampista;Al-Sadd
+Mohammed Kudus;Mediocampista;Ajax
+Abdul Fatawu Issahaku;Mediocampista;Sporting Lisboa
+Thomas Partey;Mediocampista;Arsenal
+Antoine Semenyo;Mediocampista;Bristol City
+Elisha Owusu;Mediocampista;Gent
+Sowah Kamal;Mediocampista;Brujas
+Kamaldeen Sulemana;Mediocampista;Rennes
+Daniel Kofi Kyereh;Delantero;Freiburg
+Abdul Salis Samed;Delantero;Lens
+Osman Bukari;Delantero;Red Star Belgrado
+Daniel Afriyie Barnieh;Delantero;Hearts of Oak
+Iñaki Williams;Delantero;Athletic Bilbao
+Jordan Ayew;Delantero;Crystal Palace

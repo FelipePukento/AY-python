@@ -1,0 +1,26 @@
+Keylor Navas;Portero;Paris Saint-Germain
+Esteban Alvarado;Portero;Herediano
+Patrick Sequeira;Portero;Lugo
+Francisco Calvo;Defensor;Konyaspor
+Juan Pablo Vargas;Defensor;Millonarios
+Kendall Waston;Defensor;Saprissa
+Óscar Duarte;Defensor;Al-Wehda
+Daniel Chacón;Defensor;Colorado Rapids
+Keysher Fuller;Defensor;Herediano
+Carlos Martínez;Defensor;San Carlos
+Bryan Oviedo;Defensor;Real Salt Lake
+Ronald Matarrita;Defensor;Cincinnati
+Yeltsin Tejeda;Volante;Herediano
+Celso Borges;Volante;Alajuelense
+Youstin Salas;Volante;Saprissa
+Roan Wilson;Volante;Municipal Grecia
+Gerson Torres;Volante;Herediano
+Douglas López;Volante;Herediano
+Jewison Bennette;Volante;Sunderland
+Álvaro Zamora;Volante;Saprissa
+Anthony Hernández;Volante;Puntarenas FC
+Brandon Aguilera;Volante;Nottingham Forest
+Bryan Ruiz;Volante;Alajuelense
+Joel Campbell;Delantero;León
+Anthony Contreras;Delantero;Herediano
+Johan Venegas;Delantero;Alajuelense

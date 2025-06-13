@@ -1,0 +1,35 @@
+Universidad Nacional de Córdoba;C;3;yes;125
+Universidad de la Habana;A;4;no
+Massachussetts Institute of Technology;A;1;yes;50
+Massachussetts Institute of Technology;B;2;yes;184
+Massachussetts Institute of Technology;C;2;yes;25
+University of Tokyo;A;1;yes;128
+University of Tokyo;B;1;yes;150
+Universidad Nacional de Córdoba;H;1;yes;67
+Universidad Nacional de Córdoba;I;8;no
+Universidad Nacional de Córdoba;J;1;yes;202
+Universidad Nacional de Córdoba;L;4;yes;217
+Universidad de la Habana;B;1;no
+Universidad de la Habana;C;5;yes;284
+Universidad de la Habana;H;4;yes;70
+Universidad de la Habana;J;1;yes;112
+Universidad de la Habana;L;1;yes;145
+Universidad Nacional de Córdoba;A;1;yes;296
+Massachussetts Institute of Technology;D;19;no
+Massachussetts Institute of Technology;E;1;yes;196
+Massachussetts Institute of Technology;F;1;yes;122
+Massachussetts Institute of Technology;G;3;yes;166
+Massachussetts Institute of Technology;H;2;yes;43
+Massachussetts Institute of Technology;I;1;yes;106
+Massachussetts Institute of Technology;J;1;yes;69
+Massachussetts Institute of Technology;K;1;yes;248
+Massachussetts Institute of Technology;L;1;yes;30
+University of Tokyo;C;1;yes;47
+University of Tokyo;D;2;no
+University of Tokyo;F;1;yes;64
+University of Tokyo;G;1;yes;85
+University of Tokyo;H;1;yes;17
+University of Tokyo;I;3;yes;271
+University of Tokyo;J;1;yes;37
+University of Tokyo;K;5;no
+University of Tokyo;L;2;yes;177

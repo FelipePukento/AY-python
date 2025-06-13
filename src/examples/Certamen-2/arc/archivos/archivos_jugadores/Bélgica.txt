@@ -1,0 +1,26 @@
+Thibaut Courtois;Portero;Real Madrid
+Simon Mignolet;Portero;Brujas
+Koen Casteels;Portero;Wolfsburgo
+Toby Alderweireld;Defensor;Royal Antwerp
+Arthur Theate;Defensor;Stade Rennes
+Wout Faes;Defensor;Leicester City
+Jan Vertonghen;Defensor;Anderlecht
+Thomas Meunier;Defensor;Borussia Dortmund
+Timothy Castagne;Defensor;Leicester City
+Zeno Debast;Defensor;Anderlecht
+Kevin de Bruyne;Mediocampista;Manchester City
+Hans Vanaken;Mediocampista;Brujas
+Youri Tielemans;Mediocampista;Leicester City
+Leander Dendoncker;Mediocampista;Aston Villa
+Amadou Onana;Mediocampista;Everton
+Yannick Carrasco;Mediocampista;Atlético de Madrid
+Axel Witsel;Mediocampista;Atlético de Madrid
+Charles de Ketelaere;Mediocampista;Milan
+Leandro Trossard;Mediocampista;Brighton
+Thorgan Hazard;Mediocampista;Borussia Dortmund
+Romelu Lukaku;Delantero;Inter
+Michy Batshuayi;Delantero;Fenerbahce
+Dries Mertens;Delantero;Galatasaray
+Eden Hazard;Delantero;Real Madrid
+Lois Openda;Delantero;Lens
+Jeremy Doku;Delantero;Stade Rennes

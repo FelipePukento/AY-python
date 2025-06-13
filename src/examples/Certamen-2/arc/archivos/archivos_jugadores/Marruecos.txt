@@ -1,0 +1,26 @@
+Yassine Bono;Portero;Sevilla
+Munir;Portero;Al-Wehda
+Ahmed Reda Tagnaouti;Portero;Wydad
+Achraf Hakimi;Defensor;Paris Saint-Germain
+Noussair Mazraoui;Defensor;Bayern Munich
+Romain Saiss;Defensor;Besiktas
+Nayef Aguerd;Defensor;West Ham
+Achraf Dari;Defensor;Brest
+Jawad El-Yamiq;Defensor;Valladolid
+Yahia Attiat-Allal;Defensor;Wydad
+Badr Benoun;Defensor;Qatar SC
+Sofyan Amrabat;Mediocampista;Fiorentina
+Selim Amallah;Mediocampista;Standard Lieja
+Abdelhamid Sabiri;Mediocampista;Sampdoria
+Azzedine Ounahi;Mediocampista;Angers
+Bilel El Khanouss;Mediocampista;Genk
+Yahya Jabrane;Mediocampista;Wydad
+Haim Ziyech;Delantero;Chelsea
+Youssef En-Nesyri;Delantero;Sevilla
+Sofiane Boufal;Delantero;Angers
+Zakaria Aboukhlal;Delantero;Toulouse
+Ez Abdé;Delantero;Osasuna
+Anass Zaroury*;Delantero;Burnley
+Ilias Chair;Delantero;QPR
+Abderrazak Hamdallah;Delantero;Al-ittihad
+Walid Cheddira;Delantero;Bari

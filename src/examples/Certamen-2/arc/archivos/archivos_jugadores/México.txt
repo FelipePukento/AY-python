@@ -1,0 +1,26 @@
+Guillermo Ochoa;Portero;América
+Alfredo Talavera;Portero;Juárez FC
+Rodolfo Cota;Portero;León
+Kevin Álvarez;Defensa;Pachuca
+Néstor Araujo;Defensa;América
+Jesús Gallardo;Defensa;Monterrey
+Héctor Moreno;Defensa;Monterrey
+César Montes;Defensa;Monterrey
+Gerardo Arteaga;Defensa;Genk
+Jorge Sánchez;Defensa;Ajax
+Johan Vásquez;Defensa;Cremonese
+Luis Romo;Mediocampista;Monterrey
+Uriel Antuna;Mediocampista;Cruz Azul
+Luis Chávez;Mediocampista;Pachuca
+Carlos Rodríguez;Mediocampista;Cruz Azul
+Edson Álvarez;Mediocampista;Ajax
+Héctor Herrera;Mediocampista;Dynamo
+Erik Gutiérrez;Mediocampista;PSV
+Orbelín Pineda;Mediocampista;AEK Atenas
+Roberto Alvarado;Mediocampista;Chivas
+Andrés Guardado;Mediocampista;Betis
+Rogelio Funes Mori;Delantero;Monterrey
+Henry Martín;Delantero;América
+Raúl Jiménez;Delantero;Wolverhampton
+Hirving Lozano;Delantero;Napoli
+Alexis Vega;Delantero;Chivas

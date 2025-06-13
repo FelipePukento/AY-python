@@ -1,0 +1,26 @@
+Wayne Hennessey;Portero;Nottingham Forest
+Danny Ward;Portero;Leicester City
+Adam Davies;Portero;Sheffield United
+Ben Davies;Defensor;Tottenham
+Ben Cabango;Defensor;Swansea
+Tom Lockyer;Defensor;Luton Town
+Joe Rodon;Defensor;Rennes
+Chris Mepham;Defensor;Bournemoutht
+Ethan Ampadu;Defensor;Spezia
+Chris Gunter;Defensor;Wimbledon
+Neco Williams;Defensor;Nottingham Forest
+Connor Roberts;Defensor;Burnley
+Joe Allen;Volante;Swansea
+Matt Smith;Volante;MK Dons
+Dylan Levitt;Volante;Dundee United
+Joe Morrell;Volante;Portsmouth
+Jonny Williams;Volante;Swindon Town
+Aaron Ramsey;Volante;Niza
+Harry Wilson;Volante;Fulham
+Rubin Colwill;Delantero;Cardiff City
+Sorba Thomas;Delantero;Huddersfield
+Gareth Bale;Delantero;Los Angeles FC
+Kieffer Moore;Delantero;Bournemouth
+Mark Harris;Delantero;Cardiff City
+Brennan Johnson;Delantero;Nottingham Forest
+Dan James;Delantero;Leeds United

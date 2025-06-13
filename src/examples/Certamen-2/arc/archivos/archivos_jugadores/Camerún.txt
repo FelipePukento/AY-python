@@ -1,0 +1,26 @@
+André Onana;Portero;Inter
+Simon Ngapandouetnbu;Portero;Marsella
+Devis Epassy;Portero;Abha
+Jean-Charles Castelletto;Defensor;Nantes
+Enzo Ebosse;Defensor;Udinese
+Collins Fai;Defensor;Al-Tai
+Nouhou Tolo;Defensor;Seattle Sounders
+Olivier Mbaizo;Defensor;Philadelphia Union
+Nicolas Nkoulou;Defensor;Aris
+Christopher Wooh;Defensor;Rennes
+Olivier Ntcham;Volante;Swansea
+Gael Ondoa;Volante;Hannover 96
+Martin Hongla;Volante;Hellas Verona
+Pierre Kunde;Volante;Olympiacos
+Samuel Oum Gouet;Volante;Mechelen
+André-Frank Zambo Anguissa;Volante;Napoli
+Moumi Ngamaleu;Volante;Young Boys
+Jérôme Ngom Mbekeli;Volante;Colombe Sportive
+Souaibou Marou;Delantero;Coton Sport
+Christian Bassogog;Delantero;Shanghai Shenhua
+Bryan Mbeumo;Delantero;Brentford
+Jean-Pierre Nsame;Delantero;Young Boys
+Georges-Kévin Nkoudou;Delantero;Besiktas
+Karl Toko Ekambi;Delantero;Lyon
+Vincent Aboubakar;Delantero;Al-Nassr
+Eric Maxim Choupo-Moting;Delantero;Bayern Munich

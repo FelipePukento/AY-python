@@ -1,0 +1,6 @@
+Andrea Campos;Andrea Campos;Pedro Vasquez
+pedro vasquez;mabel lazo;javier Godoy
+Andrea Campos;andrea campos;Andrea Campos
+FEDERICO ROBLEDO;PEDRO VASQUEZ;JAVIER GODOY
+Mabel Lazo;federico Robledo;Andrea Campos
+ANDREA CAMPOS;Federico Robledo;Sergio Meza

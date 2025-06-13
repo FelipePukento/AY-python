@@ -1,0 +1,956 @@
+﻿CRITICAL;Amphibians;Australia;17
+ENDANGERED;Amphibians;Australia;8
+VULNERABLE;Amphibians;Australia;14
+CRITICAL;Birds;Australia;17
+ENDANGERED;Birds;Australia;55
+VULNERABLE;Birds;Australia;63
+CRITICAL;Fish;Australia;8
+ENDANGERED;Fish;Australia;20
+VULNERABLE;Fish;Australia;25
+CRITICAL;Freshwater Fish;Australia;4
+ENDANGERED;Freshwater Fish;Australia;17
+VULNERABLE;Freshwater Fish;Australia;17
+CRITICAL;Invertebrates;Australia;30
+ENDANGERED;Invertebrates;Australia;27
+VULNERABLE;Invertebrates;Australia;14
+CRITICAL;Mammals;Australia;9
+ENDANGERED;Mammals;Australia;41
+VULNERABLE;Mammals;Australia;57
+CRITICAL;Marine Fish;Australia;4
+ENDANGERED;Marine Fish;Australia;3
+VULNERABLE;Marine Fish;Australia;8
+VULNERABLE;Mosses;Australia;1
+CRITICAL;Reptiles;Australia;9
+ENDANGERED;Reptiles;Australia;20
+VULNERABLE;Reptiles;Australia;31
+CRITICAL;Vascular plants;Australia;212
+ENDANGERED;Vascular plants;Australia;553
+VULNERABLE;Vascular plants;Australia;585
+CRITICAL;Amphibians;Austria;1
+ENDANGERED;Amphibians;Austria;3
+VULNERABLE;Amphibians;Austria;8
+CRITICAL;Birds;Austria;14
+ENDANGERED;Birds;Austria;24
+VULNERABLE;Birds;Austria;28
+CRITICAL;Fish;Austria;6
+ENDANGERED;Fish;Austria;18
+VULNERABLE;Fish;Austria;15
+CRITICAL;Freshwater Fish;Austria;6
+ENDANGERED;Freshwater Fish;Austria;18
+VULNERABLE;Freshwater Fish;Austria;15
+CRITICAL;Invertebrates;Austria;302
+ENDANGERED;Invertebrates;Austria;310
+VULNERABLE;Invertebrates;Austria;356
+CRITICAL;Lichens;Austria;57
+ENDANGERED;Lichens;Austria;135
+VULNERABLE;Lichens;Austria;251
+CRITICAL;Mammals;Austria;4
+ENDANGERED;Mammals;Austria;6
+VULNERABLE;Mammals;Austria;17
+CRITICAL;Mosses;Austria;34
+ENDANGERED;Mosses;Austria;69
+VULNERABLE;Mosses;Austria;135
+CRITICAL;Reptiles;Austria;3
+ENDANGERED;Reptiles;Austria;3
+VULNERABLE;Reptiles;Austria;3
+CRITICAL;Vascular plants;Austria;235
+ENDANGERED;Vascular plants;Austria;369
+VULNERABLE;Vascular plants;Austria;488
+CRITICAL;Amphibians;Belgium;3
+ENDANGERED;Amphibians;Belgium;3
+CRITICAL;Birds;Belgium;20
+ENDANGERED;Birds;Belgium;15
+VULNERABLE;Birds;Belgium;20
+CRITICAL;Fish;Belgium;3
+ENDANGERED;Fish;Belgium;4
+VULNERABLE;Fish;Belgium;22
+CRITICAL;Freshwater Fish;Belgium;1
+ENDANGERED;Freshwater Fish;Belgium;1
+VULNERABLE;Freshwater Fish;Belgium;13
+CRITICAL;Invertebrates;Belgium;135
+ENDANGERED;Invertebrates;Belgium;201
+VULNERABLE;Invertebrates;Belgium;230
+CRITICAL;Mammals;Belgium;4
+ENDANGERED;Mammals;Belgium;2
+VULNERABLE;Mammals;Belgium;12
+CRITICAL;Marine Fish;Belgium;2
+ENDANGERED;Marine Fish;Belgium;3
+VULNERABLE;Marine Fish;Belgium;9
+ENDANGERED;Reptiles;Belgium;2
+VULNERABLE;Reptiles;Belgium;2
+CRITICAL;Vascular plants;Belgium;253
+ENDANGERED;Vascular plants;Belgium;107
+VULNERABLE;Vascular plants;Belgium;63
+CRITICAL;Amphibians;Brazil;18
+ENDANGERED;Amphibians;Brazil;12
+VULNERABLE;Amphibians;Brazil;11
+CRITICAL;Birds;Brazil;42
+ENDANGERED;Birds;Brazil;71
+VULNERABLE;Birds;Brazil;120
+CRITICAL;Fish;Brazil;135
+ENDANGERED;Fish;Brazil;126
+VULNERABLE;Fish;Brazil;148
+CRITICAL;Freshwater Fish;Brazil;101
+ENDANGERED;Freshwater Fish;Brazil;112
+VULNERABLE;Freshwater Fish;Brazil;98
+CRITICAL;Invertebrates;Brazil;101
+ENDANGERED;Invertebrates;Brazil;104
+VULNERABLE;Invertebrates;Brazil;94
+CRITICAL;Mammals;Brazil;12
+ENDANGERED;Mammals;Brazil;43
+VULNERABLE;Mammals;Brazil;55
+CRITICAL;Marine Fish;Brazil;34
+ENDANGERED;Marine Fish;Brazil;14
+VULNERABLE;Marine Fish;Brazil;50
+CRITICAL;Reptiles;Brazil;10
+ENDANGERED;Reptiles;Brazil;50
+VULNERABLE;Reptiles;Brazil;20
+CRITICAL;Amphibians;Canada;3
+ENDANGERED;Amphibians;Canada;5
+VULNERABLE;Amphibians;Canada;10
+CRITICAL;Birds;Canada;23
+ENDANGERED;Birds;Canada;22
+VULNERABLE;Birds;Canada;52
+CRITICAL;Fish;Canada;11
+ENDANGERED;Fish;Canada;28
+VULNERABLE;Fish;Canada;51
+CRITICAL;Freshwater Fish;Canada;8
+ENDANGERED;Freshwater Fish;Canada;15
+VULNERABLE;Freshwater Fish;Canada;13
+CRITICAL;Invertebrates;Canada;287
+ENDANGERED;Invertebrates;Canada;477
+VULNERABLE;Invertebrates;Canada;1553
+CRITICAL;Lichens;Canada;127
+ENDANGERED;Lichens;Canada;97
+VULNERABLE;Lichens;Canada;104
+CRITICAL;Mammals;Canada;11
+ENDANGERED;Mammals;Canada;11
+VULNERABLE;Mammals;Canada;33
+CRITICAL;Marine Fish;Canada;3
+ENDANGERED;Marine Fish;Canada;13
+VULNERABLE;Marine Fish;Canada;38
+CRITICAL;Mosses;Canada;75
+ENDANGERED;Mosses;Canada;146
+VULNERABLE;Mosses;Canada;184
+CRITICAL;Reptiles;Canada;4
+ENDANGERED;Reptiles;Canada;9
+VULNERABLE;Reptiles;Canada;16
+CRITICAL;Vascular plants;Canada;254
+ENDANGERED;Vascular plants;Canada;293
+VULNERABLE;Vascular plants;Canada;418
+CRITICAL;Amphibians;Chile;10
+ENDANGERED;Amphibians;Chile;23
+VULNERABLE;Amphibians;Chile;11
+CRITICAL;Birds;Chile;2
+ENDANGERED;Birds;Chile;25
+VULNERABLE;Birds;Chile;19
+CRITICAL;Fish;Chile;1
+ENDANGERED;Fish;Chile;23
+VULNERABLE;Fish;Chile;14
+CRITICAL;Freshwater Fish;Chile;1
+ENDANGERED;Freshwater Fish;Chile;23
+VULNERABLE;Freshwater Fish;Chile;13
+CRITICAL;Invertebrates;Chile;33
+ENDANGERED;Invertebrates;Chile;63
+VULNERABLE;Invertebrates;Chile;23
+CRITICAL;Lichens;Chile;1
+VULNERABLE;Lichens;Chile;1
+CRITICAL;Mammals;Chile;3
+ENDANGERED;Mammals;Chile;13
+VULNERABLE;Mammals;Chile;20
+VULNERABLE;Marine Fish;Chile;1
+CRITICAL;Mosses;Chile;1
+ENDANGERED;Mosses;Chile;4
+VULNERABLE;Mosses;Chile;4
+CRITICAL;Reptiles;Chile;9
+ENDANGERED;Reptiles;Chile;18
+VULNERABLE;Reptiles;Chile;25
+CRITICAL;Vascular plants;Chile;74
+ENDANGERED;Vascular plants;Chile;199
+VULNERABLE;Vascular plants;Chile;153
+CRITICAL;Amphibians;Colombia;75
+ENDANGERED;Amphibians;Colombia;123
+VULNERABLE;Amphibians;Colombia;101
+CRITICAL;Birds;Colombia;15
+ENDANGERED;Birds;Colombia;49
+VULNERABLE;Birds;Colombia;61
+CRITICAL;Fish;Colombia;7
+ENDANGERED;Fish;Colombia;10
+VULNERABLE;Fish;Colombia;92
+CRITICAL;Freshwater Fish;Colombia;2
+ENDANGERED;Freshwater Fish;Colombia;3
+VULNERABLE;Freshwater Fish;Colombia;46
+CRITICAL;Invertebrates;Colombia;6
+ENDANGERED;Invertebrates;Colombia;44
+VULNERABLE;Invertebrates;Colombia;48
+CRITICAL;Lichens;Colombia;0
+ENDANGERED;Lichens;Colombia;0
+VULNERABLE;Lichens;Colombia;0
+CRITICAL;Mammals;Colombia;4
+ENDANGERED;Mammals;Colombia;9
+VULNERABLE;Mammals;Colombia;24
+CRITICAL;Marine Fish;Colombia;1
+ENDANGERED;Marine Fish;Colombia;2
+VULNERABLE;Marine Fish;Colombia;9
+CRITICAL;Mosses;Colombia;6
+ENDANGERED;Mosses;Colombia;4
+VULNERABLE;Mosses;Colombia;32
+CRITICAL;Reptiles;Colombia;11
+ENDANGERED;Reptiles;Colombia;16
+VULNERABLE;Reptiles;Colombia;17
+CRITICAL;Vascular plants;Colombia;105
+ENDANGERED;Vascular plants;Colombia;241
+VULNERABLE;Vascular plants;Colombia;319
+CRITICAL;Amphibians;Costa Rica;23
+ENDANGERED;Amphibians;Costa Rica;22
+VULNERABLE;Amphibians;Costa Rica;15
+CRITICAL;Birds;Costa Rica;2
+ENDANGERED;Birds;Costa Rica;9
+VULNERABLE;Birds;Costa Rica;19
+CRITICAL;Fish;Costa Rica;4
+ENDANGERED;Fish;Costa Rica;28
+VULNERABLE;Fish;Costa Rica;74
+CRITICAL;Invertebrates;Costa Rica;3
+ENDANGERED;Invertebrates;Costa Rica;13
+VULNERABLE;Invertebrates;Costa Rica;15
+CRITICAL;Mammals;Costa Rica;1
+ENDANGERED;Mammals;Costa Rica;7
+VULNERABLE;Mammals;Costa Rica;13
+VULNERABLE;Mosses;Costa Rica;2
+CRITICAL;Reptiles;Costa Rica;3
+ENDANGERED;Reptiles;Costa Rica;5
+VULNERABLE;Reptiles;Costa Rica;5
+CRITICAL;Vascular plants;Costa Rica;10
+ENDANGERED;Vascular plants;Costa Rica;58
+VULNERABLE;Vascular plants;Costa Rica;90
+CRITICAL;Amphibians;Czech Republic;5
+ENDANGERED;Amphibians;Czech Republic;5
+VULNERABLE;Amphibians;Czech Republic;6
+CRITICAL;Birds;Czech Republic;35
+ENDANGERED;Birds;Czech Republic;28
+VULNERABLE;Birds;Czech Republic;36
+CRITICAL;Fish;Czech Republic;15
+ENDANGERED;Fish;Czech Republic;2
+VULNERABLE;Fish;Czech Republic;8
+CRITICAL;Freshwater Fish;Czech Republic;15
+ENDANGERED;Freshwater Fish;Czech Republic;2
+VULNERABLE;Freshwater Fish;Czech Republic;8
+CRITICAL;Invertebrates;Czech Republic;961
+ENDANGERED;Invertebrates;Czech Republic;1091
+VULNERABLE;Invertebrates;Czech Republic;1261
+CRITICAL;Lichens;Czech Republic;136
+ENDANGERED;Lichens;Czech Republic;186
+VULNERABLE;Lichens;Czech Republic;247
+CRITICAL;Mammals;Czech Republic;10
+ENDANGERED;Mammals;Czech Republic;1
+VULNERABLE;Mammals;Czech Republic;4
+CRITICAL;Mosses;Czech Republic;70
+ENDANGERED;Mosses;Czech Republic;78
+VULNERABLE;Mosses;Czech Republic;76
+CRITICAL;Reptiles;Czech Republic;1
+ENDANGERED;Reptiles;Czech Republic;3
+VULNERABLE;Reptiles;Czech Republic;3
+CRITICAL;Vascular plants;Czech Republic;284
+ENDANGERED;Vascular plants;Czech Republic;412
+VULNERABLE;Vascular plants;Czech Republic;212
+CRITICAL;Amphibians;Denmark;1
+ENDANGERED;Amphibians;Denmark;4
+VULNERABLE;Amphibians;Denmark;1
+CRITICAL;Birds;Denmark;24
+ENDANGERED;Birds;Denmark;15
+VULNERABLE;Birds;Denmark;45
+CRITICAL;Fish;Denmark;3
+ENDANGERED;Fish;Denmark;3
+VULNERABLE;Fish;Denmark;2
+CRITICAL;Freshwater Fish;Denmark;2
+VULNERABLE;Freshwater Fish;Denmark;6
+CRITICAL;Invertebrates;Denmark;104
+ENDANGERED;Invertebrates;Denmark;179
+VULNERABLE;Invertebrates;Denmark;319
+CRITICAL;Lichens;Denmark;84
+ENDANGERED;Lichens;Denmark;50
+VULNERABLE;Lichens;Denmark;87
+CRITICAL;Mammals;Denmark;1
+ENDANGERED;Mammals;Denmark;2
+VULNERABLE;Mammals;Denmark;6
+CRITICAL;Mosses;Denmark;5
+ENDANGERED;Mosses;Denmark;13
+VULNERABLE;Mosses;Denmark;33
+VULNERABLE;Reptiles;Denmark;1
+CRITICAL;Vascular plants;Denmark;33
+ENDANGERED;Vascular plants;Denmark;101
+VULNERABLE;Vascular plants;Denmark;28
+ENDANGERED;Amphibians;Estonia;2
+VULNERABLE;Amphibians;Estonia;1
+CRITICAL;Birds;Estonia;23
+ENDANGERED;Birds;Estonia;31
+VULNERABLE;Birds;Estonia;41
+CRITICAL;Fish;Estonia;3
+ENDANGERED;Fish;Estonia;1
+VULNERABLE;Fish;Estonia;5
+CRITICAL;Freshwater Fish;Estonia;3
+ENDANGERED;Freshwater Fish;Estonia;1
+VULNERABLE;Freshwater Fish;Estonia;5
+CRITICAL;Invertebrates;Estonia;40
+ENDANGERED;Invertebrates;Estonia;43
+VULNERABLE;Invertebrates;Estonia;54
+CRITICAL;Lichens;Estonia;64
+ENDANGERED;Lichens;Estonia;74
+VULNERABLE;Lichens;Estonia;43
+CRITICAL;Mammals;Estonia;2
+ENDANGERED;Mammals;Estonia;1
+CRITICAL;Marine Fish;Estonia;2
+ENDANGERED;Marine Fish;Estonia;1
+VULNERABLE;Marine Fish;Estonia;1
+CRITICAL;Mosses;Estonia;19
+ENDANGERED;Mosses;Estonia;24
+VULNERABLE;Mosses;Estonia;116
+ENDANGERED;Reptiles;Estonia;1
+VULNERABLE;Reptiles;Estonia;1
+CRITICAL;Vascular plants;Estonia;35
+ENDANGERED;Vascular plants;Estonia;67
+VULNERABLE;Vascular plants;Estonia;102
+CRITICAL;Amphibians;Finland;0
+ENDANGERED;Amphibians;Finland;1
+VULNERABLE;Amphibians;Finland;0
+CRITICAL;Birds;Finland;18
+ENDANGERED;Birds;Finland;33
+VULNERABLE;Birds;Finland;35
+CRITICAL;Fish;Finland;4
+ENDANGERED;Fish;Finland;3
+VULNERABLE;Fish;Finland;5
+CRITICAL;Freshwater Fish;Finland;3
+ENDANGERED;Freshwater Fish;Finland;3
+VULNERABLE;Freshwater Fish;Finland;4
+CRITICAL;Invertebrates;Finland;168
+ENDANGERED;Invertebrates;Finland;454
+VULNERABLE;Invertebrates;Finland;676
+CRITICAL;Lichens;Finland;98
+ENDANGERED;Lichens;Finland;155
+VULNERABLE;Lichens;Finland;224
+CRITICAL;Mammals;Finland;1
+ENDANGERED;Mammals;Finland;4
+VULNERABLE;Mammals;Finland;3
+CRITICAL;Marine Fish;Finland;1
+VULNERABLE;Marine Fish;Finland;1
+CRITICAL;Mosses;Finland;133
+ENDANGERED;Mosses;Finland;91
+VULNERABLE;Mosses;Finland;88
+CRITICAL;Reptiles;Finland;0
+ENDANGERED;Reptiles;Finland;0
+VULNERABLE;Reptiles;Finland;1
+CRITICAL;Vascular plants;Finland;35
+ENDANGERED;Vascular plants;Finland;101
+VULNERABLE;Vascular plants;Finland;76
+CRITICAL;Amphibians;France;0
+ENDANGERED;Amphibians;France;3
+VULNERABLE;Amphibians;France;5
+CRITICAL;Birds;France;16
+ENDANGERED;Birds;France;33
+VULNERABLE;Birds;France;58
+CRITICAL;Fish;France;7
+ENDANGERED;Fish;France;11
+VULNERABLE;Fish;France;8
+CRITICAL;Freshwater Fish;France;4
+ENDANGERED;Freshwater Fish;France;6
+VULNERABLE;Freshwater Fish;France;5
+CRITICAL;Invertebrates;France;18
+ENDANGERED;Invertebrates;France;22
+VULNERABLE;Invertebrates;France;179
+CRITICAL;Mammals;France;3
+ENDANGERED;Mammals;France;4
+VULNERABLE;Mammals;France;10
+CRITICAL;Marine Fish;France;3
+ENDANGERED;Marine Fish;France;5
+VULNERABLE;Marine Fish;France;3
+CRITICAL;Reptiles;France;0
+ENDANGERED;Reptiles;France;3
+VULNERABLE;Reptiles;France;6
+CRITICAL;Vascular plants;France;51
+ENDANGERED;Vascular plants;France;132
+VULNERABLE;Vascular plants;France;238
+CRITICAL;Amphibians;Germany;0
+ENDANGERED;Amphibians;Germany;5
+VULNERABLE;Amphibians;Germany;5
+CRITICAL;Birds;Germany;30
+ENDANGERED;Birds;Germany;24
+VULNERABLE;Birds;Germany;40
+CRITICAL;Fish;Germany;12
+ENDANGERED;Fish;Germany;14
+VULNERABLE;Fish;Germany;23
+CRITICAL;Freshwater Fish;Germany;8
+ENDANGERED;Freshwater Fish;Germany;9
+VULNERABLE;Freshwater Fish;Germany;11
+CRITICAL;Invertebrates;Germany;559
+ENDANGERED;Invertebrates;Germany;1010
+VULNERABLE;Invertebrates;Germany;2183
+CRITICAL;Lichens;Germany;337
+ENDANGERED;Lichens;Germany;169
+VULNERABLE;Lichens;Germany;546
+CRITICAL;Mammals;Germany;7
+ENDANGERED;Mammals;Germany;10
+VULNERABLE;Mammals;Germany;22
+CRITICAL;Marine Fish;Germany;4
+ENDANGERED;Marine Fish;Germany;5
+VULNERABLE;Marine Fish;Germany;12
+CRITICAL;Mosses;Germany;45
+ENDANGERED;Mosses;Germany;114
+VULNERABLE;Mosses;Germany;250
+CRITICAL;Reptiles;Germany;4
+ENDANGERED;Reptiles;Germany;3
+VULNERABLE;Reptiles;Germany;2
+CRITICAL;Vascular plants;Germany;212
+ENDANGERED;Vascular plants;Germany;378
+VULNERABLE;Vascular plants;Germany;820
+CRITICAL;Amphibians;Greece;1
+ENDANGERED;Amphibians;Greece;2
+VULNERABLE;Amphibians;Greece;3
+CRITICAL;Birds;Greece;14
+ENDANGERED;Birds;Greece;17
+VULNERABLE;Birds;Greece;31
+CRITICAL;Fish;Greece;19
+ENDANGERED;Fish;Greece;16
+VULNERABLE;Fish;Greece;28
+CRITICAL;Freshwater Fish;Greece;14
+ENDANGERED;Freshwater Fish;Greece;12
+VULNERABLE;Freshwater Fish;Greece;23
+CRITICAL;Mammals;Greece;3
+ENDANGERED;Mammals;Greece;13
+VULNERABLE;Mammals;Greece;13
+CRITICAL;Marine Fish;Greece;5
+ENDANGERED;Marine Fish;Greece;4
+VULNERABLE;Marine Fish;Greece;5
+CRITICAL;Reptiles;Greece;1
+ENDANGERED;Reptiles;Greece;2
+VULNERABLE;Reptiles;Greece;6
+CRITICAL;Vascular plants;Greece;17
+ENDANGERED;Vascular plants;Greece;64
+VULNERABLE;Vascular plants;Greece;174
+ENDANGERED;Amphibians;Hungary;1
+VULNERABLE;Amphibians;Hungary;1
+CRITICAL;Birds;Hungary;23
+ENDANGERED;Birds;Hungary;20
+VULNERABLE;Birds;Hungary;35
+CRITICAL;Invertebrates;Hungary;9
+ENDANGERED;Invertebrates;Hungary;7
+VULNERABLE;Invertebrates;Hungary;8
+CRITICAL;Lichens;Hungary;24
+ENDANGERED;Lichens;Hungary;44
+VULNERABLE;Lichens;Hungary;45
+CRITICAL;Mammals;Hungary;5
+ENDANGERED;Mammals;Hungary;3
+VULNERABLE;Mammals;Hungary;6
+CRITICAL;Mosses;Hungary;20
+ENDANGERED;Mosses;Hungary;90
+VULNERABLE;Mosses;Hungary;63
+ENDANGERED;Reptiles;Hungary;4
+CRITICAL;Vascular plants;Hungary;115
+ENDANGERED;Vascular plants;Hungary;162
+VULNERABLE;Vascular plants;Hungary;105
+CRITICAL;Birds;Iceland;6
+ENDANGERED;Birds;Iceland;11
+VULNERABLE;Birds;Iceland;16
+ENDANGERED;Amphibians;Ireland;1
+ENDANGERED;Birds;Ireland;54
+VULNERABLE;Birds;Ireland;79
+CRITICAL;Freshwater Fish;Ireland;1
+VULNERABLE;Freshwater Fish;Ireland;4
+CRITICAL;Invertebrates;Ireland;28
+ENDANGERED;Invertebrates;Ireland;51
+VULNERABLE;Invertebrates;Ireland;100
+VULNERABLE;Mammals;Ireland;1
+CRITICAL;Marine Fish;Ireland;6
+ENDANGERED;Marine Fish;Ireland;5
+VULNERABLE;Marine Fish;Ireland;6
+CRITICAL;Mosses;Ireland;19
+ENDANGERED;Mosses;Ireland;30
+VULNERABLE;Mosses;Ireland;64
+ENDANGERED;Reptiles;Ireland;0
+CRITICAL;Vascular plants;Ireland;20
+ENDANGERED;Vascular plants;Ireland;25
+VULNERABLE;Vascular plants;Ireland;56
+CRITICAL;Amphibians;Italy;0
+ENDANGERED;Amphibians;Italy;4
+VULNERABLE;Amphibians;Italy;10
+CRITICAL;Birds;Italy;10
+ENDANGERED;Birds;Italy;36
+VULNERABLE;Birds;Italy;21
+CRITICAL;Fish;Italy;21
+ENDANGERED;Fish;Italy;12
+VULNERABLE;Fish;Italy;14
+CRITICAL;Freshwater Fish;Italy;11
+ENDANGERED;Freshwater Fish;Italy;6
+VULNERABLE;Freshwater Fish;Italy;8
+CRITICAL;Invertebrates;Italy;88
+ENDANGERED;Invertebrates;Italy;136
+VULNERABLE;Invertebrates;Italy;232
+CRITICAL;Mammals;Italy;2
+ENDANGERED;Mammals;Italy;8
+VULNERABLE;Mammals;Italy;13
+CRITICAL;Marine Fish;Italy;10
+ENDANGERED;Marine Fish;Italy;6
+VULNERABLE;Marine Fish;Italy;6
+CRITICAL;Reptiles;Italy;1
+ENDANGERED;Reptiles;Italy;5
+VULNERABLE;Reptiles;Italy;5
+CRITICAL;Vascular plants;Italy;193
+ENDANGERED;Vascular plants;Italy;269
+VULNERABLE;Vascular plants;Italy;169
+CRITICAL;Amphibians;Japan;5
+ENDANGERED;Amphibians;Japan;20
+VULNERABLE;Amphibians;Japan;22
+CRITICAL;Birds;Japan;24
+ENDANGERED;Birds;Japan;31
+VULNERABLE;Birds;Japan;43
+CRITICAL;Fish;Japan;79
+ENDANGERED;Fish;Japan;60
+VULNERABLE;Fish;Japan;46
+CRITICAL;Freshwater Fish;Japan;71
+ENDANGERED;Freshwater Fish;Japan;54
+VULNERABLE;Freshwater Fish;Japan;44
+CRITICAL;Invertebrates;Japan;20
+ENDANGERED;Invertebrates;Japan;2
+VULNERABLE;Invertebrates;Japan;43
+CRITICAL;Lichens;Japan;2
+ENDANGERED;Lichens;Japan;41
+VULNERABLE;Lichens;Japan;20
+CRITICAL;Mammals;Japan;12
+ENDANGERED;Mammals;Japan;13
+VULNERABLE;Mammals;Japan;9
+CRITICAL;Marine Fish;Japan;8
+ENDANGERED;Marine Fish;Japan;6
+VULNERABLE;Marine Fish;Japan;2
+CRITICAL;Mosses;Japan;137
+ENDANGERED;Mosses;Japan;138
+VULNERABLE;Mosses;Japan;103
+CRITICAL;Reptiles;Japan;5
+ENDANGERED;Reptiles;Japan;9
+VULNERABLE;Reptiles;Japan;23
+CRITICAL;Vascular plants;Japan;529
+ENDANGERED;Vascular plants;Japan;520
+VULNERABLE;Vascular plants;Japan;741
+CRITICAL;Amphibians;Korea;0
+ENDANGERED;Amphibians;Korea;2
+VULNERABLE;Amphibians;Korea;3
+CRITICAL;Birds;Korea;7
+ENDANGERED;Birds;Korea;18
+VULNERABLE;Birds;Korea;29
+CRITICAL;Fish;Korea;4
+ENDANGERED;Fish;Korea;13
+VULNERABLE;Fish;Korea;7
+CRITICAL;Freshwater Fish;Korea;4
+ENDANGERED;Freshwater Fish;Korea;13
+VULNERABLE;Freshwater Fish;Korea;7
+CRITICAL;Invertebrates;Korea;18
+ENDANGERED;Invertebrates;Korea;39
+VULNERABLE;Invertebrates;Korea;117
+CRITICAL;Mammals;Korea;2
+ENDANGERED;Mammals;Korea;5
+VULNERABLE;Mammals;Korea;7
+CRITICAL;Reptiles;Korea;0
+ENDANGERED;Reptiles;Korea;1
+VULNERABLE;Reptiles;Korea;4
+CRITICAL;Vascular plants;Korea;28
+ENDANGERED;Vascular plants;Korea;74
+VULNERABLE;Vascular plants;Korea;86
+CRITICAL;Amphibians;Latvia;1
+ENDANGERED;Amphibians;Latvia;1
+VULNERABLE;Amphibians;Latvia;2
+CRITICAL;Birds;Latvia;4
+ENDANGERED;Birds;Latvia;19
+VULNERABLE;Birds;Latvia;16
+CRITICAL;Fish;Latvia;1
+ENDANGERED;Fish;Latvia;0
+VULNERABLE;Fish;Latvia;1
+ENDANGERED;Freshwater Fish;Latvia;0
+VULNERABLE;Freshwater Fish;Latvia;1
+CRITICAL;Invertebrates;Latvia;7
+ENDANGERED;Invertebrates;Latvia;38
+VULNERABLE;Invertebrates;Latvia;34
+CRITICAL;Lichens;Latvia;2
+ENDANGERED;Lichens;Latvia;18
+VULNERABLE;Lichens;Latvia;4
+CRITICAL;Mammals;Latvia;0
+ENDANGERED;Mammals;Latvia;3
+VULNERABLE;Mammals;Latvia;2
+CRITICAL;Marine Fish;Latvia;1
+ENDANGERED;Marine Fish;Latvia;0
+CRITICAL;Mosses;Latvia;3
+ENDANGERED;Mosses;Latvia;41
+VULNERABLE;Mosses;Latvia;17
+CRITICAL;Reptiles;Latvia;1
+ENDANGERED;Reptiles;Latvia;1
+VULNERABLE;Reptiles;Latvia;0
+CRITICAL;Vascular plants;Latvia;16
+ENDANGERED;Vascular plants;Latvia;110
+VULNERABLE;Vascular plants;Latvia;83
+ENDANGERED;Amphibians;Lithuania;1
+VULNERABLE;Amphibians;Lithuania;3
+CRITICAL;Birds;Lithuania;19
+ENDANGERED;Birds;Lithuania;17
+VULNERABLE;Birds;Lithuania;20
+CRITICAL;Fish;Lithuania;3
+ENDANGERED;Fish;Lithuania;0
+VULNERABLE;Fish;Lithuania;2
+CRITICAL;Freshwater Fish;Lithuania;2
+ENDANGERED;Freshwater Fish;Lithuania;0
+VULNERABLE;Freshwater Fish;Lithuania;2
+CRITICAL;Invertebrates;Lithuania;13
+ENDANGERED;Invertebrates;Lithuania;54
+VULNERABLE;Invertebrates;Lithuania;22
+CRITICAL;Lichens;Lithuania;24
+ENDANGERED;Lichens;Lithuania;16
+VULNERABLE;Lichens;Lithuania;3
+ENDANGERED;Mammals;Lithuania;3
+VULNERABLE;Mammals;Lithuania;4
+CRITICAL;Marine Fish;Lithuania;1
+ENDANGERED;Marine Fish;Lithuania;0
+VULNERABLE;Marine Fish;Lithuania;0
+CRITICAL;Mosses;Lithuania;9
+ENDANGERED;Mosses;Lithuania;13
+VULNERABLE;Mosses;Lithuania;26
+ENDANGERED;Reptiles;Lithuania;1
+VULNERABLE;Reptiles;Lithuania;1
+CRITICAL;Vascular plants;Lithuania;23
+ENDANGERED;Vascular plants;Lithuania;66
+VULNERABLE;Vascular plants;Lithuania;41
+CRITICAL;Amphibians;Luxembourg;2
+ENDANGERED;Amphibians;Luxembourg;1
+VULNERABLE;Amphibians;Luxembourg;1
+CRITICAL;Birds;Luxembourg;7
+ENDANGERED;Birds;Luxembourg;8
+VULNERABLE;Birds;Luxembourg;11
+CRITICAL;Fish;Luxembourg;3
+ENDANGERED;Fish;Luxembourg;1
+VULNERABLE;Fish;Luxembourg;8
+CRITICAL;Freshwater Fish;Luxembourg;3
+ENDANGERED;Freshwater Fish;Luxembourg;1
+VULNERABLE;Freshwater Fish;Luxembourg;8
+CRITICAL;Invertebrates;Luxembourg;7
+ENDANGERED;Invertebrates;Luxembourg;7
+VULNERABLE;Invertebrates;Luxembourg;9
+CRITICAL;Reptiles;Luxembourg;0
+ENDANGERED;Reptiles;Luxembourg;0
+VULNERABLE;Reptiles;Luxembourg;2
+CRITICAL;Vascular plants;Luxembourg;121
+ENDANGERED;Vascular plants;Luxembourg;124
+VULNERABLE;Vascular plants;Luxembourg;109
+CRITICAL;Amphibians;Mexico;0
+ENDANGERED;Amphibians;Mexico;15
+VULNERABLE;Amphibians;Mexico;43
+CRITICAL;Birds;Mexico;18
+ENDANGERED;Birds;Mexico;98
+VULNERABLE;Birds;Mexico;127
+CRITICAL;Fish;Mexico;14
+ENDANGERED;Fish;Mexico;85
+VULNERABLE;Fish;Mexico;76
+CRITICAL;Freshwater Fish;Mexico;13
+ENDANGERED;Freshwater Fish;Mexico;77
+VULNERABLE;Freshwater Fish;Mexico;66
+CRITICAL;Invertebrates;Mexico;1
+ENDANGERED;Invertebrates;Mexico;24
+VULNERABLE;Invertebrates;Mexico;26
+CRITICAL;Mammals;Mexico;9
+ENDANGERED;Mammals;Mexico;49
+VULNERABLE;Mammals;Mexico;90
+CRITICAL;Marine Fish;Mexico;0
+ENDANGERED;Marine Fish;Mexico;2
+VULNERABLE;Marine Fish;Mexico;2
+CRITICAL;Mosses;Mexico;0
+ENDANGERED;Mosses;Mexico;0
+VULNERABLE;Mosses;Mexico;2
+CRITICAL;Reptiles;Mexico;0
+ENDANGERED;Reptiles;Mexico;28
+VULNERABLE;Reptiles;Mexico;142
+CRITICAL;Vascular plants;Mexico;6
+ENDANGERED;Vascular plants;Mexico;212
+VULNERABLE;Vascular plants;Mexico;348
+CRITICAL;Amphibians;Netherlands;1
+ENDANGERED;Amphibians;Netherlands;3
+VULNERABLE;Amphibians;Netherlands;3
+CRITICAL;Birds;Netherlands;11
+ENDANGERED;Birds;Netherlands;11
+VULNERABLE;Birds;Netherlands;19
+CRITICAL;Fish;Netherlands;4
+ENDANGERED;Fish;Netherlands;5
+VULNERABLE;Fish;Netherlands;14
+CRITICAL;Freshwater Fish;Netherlands;1
+ENDANGERED;Freshwater Fish;Netherlands;2
+VULNERABLE;Freshwater Fish;Netherlands;10
+CRITICAL;Invertebrates;Netherlands;50
+ENDANGERED;Invertebrates;Netherlands;61
+VULNERABLE;Invertebrates;Netherlands;51
+CRITICAL;Lichens;Netherlands;49
+ENDANGERED;Lichens;Netherlands;42
+VULNERABLE;Lichens;Netherlands;65
+CRITICAL;Mammals;Netherlands;2
+ENDANGERED;Mammals;Netherlands;0
+VULNERABLE;Mammals;Netherlands;8
+CRITICAL;Marine Fish;Netherlands;3
+ENDANGERED;Marine Fish;Netherlands;3
+VULNERABLE;Marine Fish;Netherlands;4
+CRITICAL;Mosses;Netherlands;52
+ENDANGERED;Mosses;Netherlands;27
+VULNERABLE;Mosses;Netherlands;43
+CRITICAL;Reptiles;Netherlands;1
+ENDANGERED;Reptiles;Netherlands;0
+VULNERABLE;Reptiles;Netherlands;4
+CRITICAL;Vascular plants;Netherlands;71
+ENDANGERED;Vascular plants;Netherlands;117
+VULNERABLE;Vascular plants;Netherlands;168
+CRITICAL;Invertebrates;New Zealand;133
+ENDANGERED;Invertebrates;New Zealand;62
+VULNERABLE;Invertebrates;New Zealand;71
+CRITICAL;Lichens;New Zealand;6
+ENDANGERED;Lichens;New Zealand;2
+VULNERABLE;Lichens;New Zealand;8
+CRITICAL;Mosses;New Zealand;14
+ENDANGERED;Mosses;New Zealand;4
+VULNERABLE;Mosses;New Zealand;2
+CRITICAL;Amphibians;Norway;1
+VULNERABLE;Amphibians;Norway;1
+CRITICAL;Birds;Norway;11
+ENDANGERED;Birds;Norway;18
+VULNERABLE;Birds;Norway;33
+CRITICAL;Fish;Norway;2
+ENDANGERED;Fish;Norway;6
+VULNERABLE;Fish;Norway;4
+VULNERABLE;Freshwater Fish;Norway;1
+CRITICAL;Invertebrates;Norway;103
+ENDANGERED;Invertebrates;Norway;468
+VULNERABLE;Invertebrates;Norway;785
+CRITICAL;Lichens;Norway;49
+ENDANGERED;Lichens;Norway;97
+VULNERABLE;Lichens;Norway;123
+CRITICAL;Mammals;Norway;3
+ENDANGERED;Mammals;Norway;8
+VULNERABLE;Mammals;Norway;6
+CRITICAL;Marine Fish;Norway;2
+ENDANGERED;Marine Fish;Norway;6
+VULNERABLE;Marine Fish;Norway;3
+CRITICAL;Mosses;Norway;44
+ENDANGERED;Mosses;Norway;75
+VULNERABLE;Mosses;Norway;124
+CRITICAL;Vascular plants;Norway;44
+ENDANGERED;Vascular plants;Norway;122
+VULNERABLE;Vascular plants;Norway;131
+ENDANGERED;Amphibians;Poland;0
+CRITICAL;Birds;Poland;16
+ENDANGERED;Birds;Poland;8
+VULNERABLE;Birds;Poland;10
+CRITICAL;Fish;Poland;6
+ENDANGERED;Fish;Poland;5
+VULNERABLE;Fish;Poland;14
+CRITICAL;Freshwater Fish;Poland;1
+ENDANGERED;Freshwater Fish;Poland;4
+VULNERABLE;Freshwater Fish;Poland;12
+CRITICAL;Invertebrates;Poland;152
+ENDANGERED;Invertebrates;Poland;358
+VULNERABLE;Invertebrates;Poland;571
+CRITICAL;Lichens;Poland;179
+ENDANGERED;Lichens;Poland;201
+VULNERABLE;Lichens;Poland;165
+CRITICAL;Mammals;Poland;2
+ENDANGERED;Mammals;Poland;10
+VULNERABLE;Mammals;Poland;1
+CRITICAL;Marine Fish;Poland;1
+ENDANGERED;Marine Fish;Poland;0
+VULNERABLE;Marine Fish;Poland;1
+ENDANGERED;Mosses;Poland;52
+VULNERABLE;Mosses;Poland;31
+CRITICAL;Reptiles;Poland;1
+ENDANGERED;Reptiles;Poland;1
+VULNERABLE;Reptiles;Poland;1
+CRITICAL;Vascular plants;Poland;124
+ENDANGERED;Vascular plants;Poland;152
+VULNERABLE;Vascular plants;Poland;204
+VULNERABLE;Amphibians;Portugal;2
+CRITICAL;Birds;Portugal;20
+ENDANGERED;Birds;Portugal;30
+VULNERABLE;Birds;Portugal;61
+CRITICAL;Fish;Portugal;8
+ENDANGERED;Fish;Portugal;10
+VULNERABLE;Fish;Portugal;4
+CRITICAL;Mammals;Portugal;11
+ENDANGERED;Mammals;Portugal;7
+VULNERABLE;Mammals;Portugal;13
+ENDANGERED;Reptiles;Portugal;4
+VULNERABLE;Reptiles;Portugal;6
+ENDANGERED;Amphibians;Slovak Republic;3
+VULNERABLE;Amphibians;Slovak Republic;5
+CRITICAL;Birds;Slovak Republic;10
+ENDANGERED;Birds;Slovak Republic;24
+VULNERABLE;Birds;Slovak Republic;17
+ENDANGERED;Fish;Slovak Republic;6
+VULNERABLE;Fish;Slovak Republic;6
+ENDANGERED;Freshwater Fish;Slovak Republic;6
+VULNERABLE;Freshwater Fish;Slovak Republic;6
+CRITICAL;Invertebrates;Slovak Republic;199
+ENDANGERED;Invertebrates;Slovak Republic;401
+VULNERABLE;Invertebrates;Slovak Republic;1036
+CRITICAL;Lichens;Slovak Republic;140
+ENDANGERED;Lichens;Slovak Republic;48
+VULNERABLE;Lichens;Slovak Republic;169
+CRITICAL;Mammals;Slovak Republic;2
+ENDANGERED;Mammals;Slovak Republic;6
+VULNERABLE;Mammals;Slovak Republic;12
+CRITICAL;Mosses;Slovak Republic;47
+ENDANGERED;Mosses;Slovak Republic;75
+VULNERABLE;Mosses;Slovak Republic;190
+CRITICAL;Reptiles;Slovak Republic;1
+VULNERABLE;Reptiles;Slovak Republic;4
+CRITICAL;Vascular plants;Slovak Republic;155
+ENDANGERED;Vascular plants;Slovak Republic;171
+VULNERABLE;Vascular plants;Slovak Republic;201
+ENDANGERED;Amphibians;Slovenia;3
+VULNERABLE;Amphibians;Slovenia;14
+CRITICAL;Birds;Slovenia;17
+ENDANGERED;Birds;Slovenia;43
+VULNERABLE;Birds;Slovenia;45
+ENDANGERED;Fish;Slovenia;40
+VULNERABLE;Fish;Slovenia;10
+ENDANGERED;Freshwater Fish;Slovenia;31
+VULNERABLE;Freshwater Fish;Slovenia;9
+ENDANGERED;Mammals;Slovenia;19
+VULNERABLE;Mammals;Slovenia;15
+ENDANGERED;Marine Fish;Slovenia;9
+VULNERABLE;Marine Fish;Slovenia;1
+ENDANGERED;Reptiles;Slovenia;7
+VULNERABLE;Reptiles;Slovenia;11
+ENDANGERED;Vascular plants;Slovenia;80
+VULNERABLE;Vascular plants;Slovenia;254
+CRITICAL;Amphibians;Spain;1
+ENDANGERED;Amphibians;Spain;2
+VULNERABLE;Amphibians;Spain;6
+CRITICAL;Birds;Spain;10
+ENDANGERED;Birds;Spain;22
+VULNERABLE;Birds;Spain;36
+CRITICAL;Fish;Spain;9
+ENDANGERED;Fish;Spain;9
+VULNERABLE;Fish;Spain;24
+CRITICAL;Freshwater Fish;Spain;9
+ENDANGERED;Freshwater Fish;Spain;8
+VULNERABLE;Freshwater Fish;Spain;19
+CRITICAL;Invertebrates;Spain;20
+ENDANGERED;Invertebrates;Spain;54
+VULNERABLE;Invertebrates;Spain;164
+CRITICAL;Mammals;Spain;2
+ENDANGERED;Mammals;Spain;6
+VULNERABLE;Mammals;Spain;18
+CRITICAL;Marine Fish;Spain;0
+ENDANGERED;Marine Fish;Spain;1
+VULNERABLE;Marine Fish;Spain;5
+CRITICAL;Mosses;Spain;13
+ENDANGERED;Mosses;Spain;10
+VULNERABLE;Mosses;Spain;22
+CRITICAL;Reptiles;Spain;4
+ENDANGERED;Reptiles;Spain;5
+VULNERABLE;Reptiles;Spain;10
+CRITICAL;Vascular plants;Spain;272
+ENDANGERED;Vascular plants;Spain;246
+VULNERABLE;Vascular plants;Spain;523
+ENDANGERED;Amphibians;Sweden;0
+VULNERABLE;Amphibians;Sweden;3
+CRITICAL;Birds;Sweden;6
+ENDANGERED;Birds;Sweden;20
+VULNERABLE;Birds;Sweden;28
+CRITICAL;Fish;Sweden;6
+ENDANGERED;Fish;Sweden;6
+VULNERABLE;Fish;Sweden;8
+CRITICAL;Freshwater Fish;Sweden;1
+ENDANGERED;Freshwater Fish;Sweden;1
+VULNERABLE;Freshwater Fish;Sweden;1
+CRITICAL;Invertebrates;Sweden;87
+ENDANGERED;Invertebrates;Sweden;297
+VULNERABLE;Invertebrates;Sweden;695
+CRITICAL;Lichens;Sweden;52
+ENDANGERED;Lichens;Sweden;71
+VULNERABLE;Lichens;Sweden;85
+CRITICAL;Mammals;Sweden;1
+ENDANGERED;Mammals;Sweden;4
+VULNERABLE;Mammals;Sweden;4
+CRITICAL;Marine Fish;Sweden;6
+ENDANGERED;Marine Fish;Sweden;5
+VULNERABLE;Marine Fish;Sweden;6
+CRITICAL;Mosses;Sweden;11
+ENDANGERED;Mosses;Sweden;56
+VULNERABLE;Mosses;Sweden;87
+VULNERABLE;Reptiles;Sweden;2
+CRITICAL;Vascular plants;Sweden;39
+ENDANGERED;Vascular plants;Sweden;90
+VULNERABLE;Vascular plants;Sweden;139
+CRITICAL;Amphibians;Switzerland;0
+ENDANGERED;Amphibians;Switzerland;6
+VULNERABLE;Amphibians;Switzerland;8
+CRITICAL;Birds;Switzerland;9
+ENDANGERED;Birds;Switzerland;25
+VULNERABLE;Birds;Switzerland;42
+CRITICAL;Fish;Switzerland;15
+ENDANGERED;Fish;Switzerland;8
+VULNERABLE;Fish;Switzerland;11
+CRITICAL;Freshwater Fish;Switzerland;15
+ENDANGERED;Freshwater Fish;Switzerland;8
+VULNERABLE;Freshwater Fish;Switzerland;11
+CRITICAL;Invertebrates;Switzerland;230
+ENDANGERED;Invertebrates;Switzerland;358
+VULNERABLE;Invertebrates;Switzerland;487
+CRITICAL;Lichens;Switzerland;45
+ENDANGERED;Lichens;Switzerland;96
+VULNERABLE;Lichens;Switzerland;116
+CRITICAL;Mammals;Switzerland;5
+ENDANGERED;Mammals;Switzerland;12
+VULNERABLE;Mammals;Switzerland;16
+CRITICAL;Mosses;Switzerland;121
+ENDANGERED;Mosses;Switzerland;102
+VULNERABLE;Mosses;Switzerland;164
+CRITICAL;Reptiles;Switzerland;2
+ENDANGERED;Reptiles;Switzerland;9
+VULNERABLE;Reptiles;Switzerland;2
+CRITICAL;Vascular plants;Switzerland;111
+ENDANGERED;Vascular plants;Switzerland;197
+VULNERABLE;Vascular plants;Switzerland;362
+CRITICAL;Amphibians;Turkiye;1
+ENDANGERED;Amphibians;Turkiye;3
+VULNERABLE;Amphibians;Turkiye;4
+CRITICAL;Birds;Turkiye;7
+ENDANGERED;Birds;Turkiye;12
+VULNERABLE;Birds;Turkiye;36
+CRITICAL;Fish;Turkiye;27
+ENDANGERED;Fish;Turkiye;44
+VULNERABLE;Fish;Turkiye;27
+CRITICAL;Freshwater Fish;Turkiye;27
+ENDANGERED;Freshwater Fish;Turkiye;44
+VULNERABLE;Freshwater Fish;Turkiye;27
+CRITICAL;Mammals;Turkiye;3
+ENDANGERED;Mammals;Turkiye;5
+VULNERABLE;Mammals;Turkiye;15
+CRITICAL;Reptiles;Turkiye;8
+ENDANGERED;Reptiles;Turkiye;9
+VULNERABLE;Reptiles;Turkiye;5
+CRITICAL;Vascular plants;Turkiye;65
+ENDANGERED;Vascular plants;Turkiye;76
+VULNERABLE;Vascular plants;Turkiye;56
+CRITICAL;Amphibians;United Kingdom;1
+ENDANGERED;Amphibians;United Kingdom;1
+CRITICAL;Birds;United Kingdom;18
+ENDANGERED;Birds;United Kingdom;36
+VULNERABLE;Birds;United Kingdom;47
+CRITICAL;Freshwater Fish;United Kingdom;2
+ENDANGERED;Freshwater Fish;United Kingdom;3
+VULNERABLE;Freshwater Fish;United Kingdom;3
+CRITICAL;Invertebrates;United Kingdom;102
+ENDANGERED;Invertebrates;United Kingdom;138
+VULNERABLE;Invertebrates;United Kingdom;272
+CRITICAL;Lichens;United Kingdom;45
+ENDANGERED;Lichens;United Kingdom;34
+VULNERABLE;Lichens;United Kingdom;111
+CRITICAL;Mammals;United Kingdom;2
+ENDANGERED;Mammals;United Kingdom;4
+VULNERABLE;Mammals;United Kingdom;5
+CRITICAL;Mosses;United Kingdom;26
+ENDANGERED;Mosses;United Kingdom;30
+VULNERABLE;Mosses;United Kingdom;52
+ENDANGERED;Reptiles;United Kingdom;2
+CRITICAL;Vascular plants;United Kingdom;51
+ENDANGERED;Vascular plants;United Kingdom;113
+VULNERABLE;Vascular plants;United Kingdom;229

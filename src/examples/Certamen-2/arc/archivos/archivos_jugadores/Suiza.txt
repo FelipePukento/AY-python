@@ -1,0 +1,26 @@
+Yan Sommer;Portero;Borussia Monchengladbach
+Jonas Omlin;Portero;Montpellier
+Gregor Kobel;Portero;Borussia Dortmund
+Philipp Köhn;Portero;RB Salzburgo
+Ricardo Rodriguez;Defensor;Torino
+Fabian Schar;Defensor;Newcastle United
+Manuel Akanji;Defensor;Manchester City
+Nico Elvedi;Defensor;Borussia Monchengladbach
+Silvan Widmer;Defensor;Mainz 05
+Eray Comert;Defensor;Valencia
+Xherdan Shaqiri;Volante;Chicago Fire
+Granit Xhaka;Volante;Arsenal
+Remo Freuler;Volante;Nottingham Forest
+Denis Zakaria;Volante;Chelsea
+Djibril Sow;Volante;Eintracht Frankfurt
+Renato Steffen;Volante;Lugano
+Fabian Frei;Volante;Basilea
+Michel Aebischer;Volante;Bolonia
+Ardon Jashari;Volante;Luzern
+Edimilson Fernandes;Volante;Mainz 05
+Fabian Rieder;Volante;Young Boys
+Haris Seferovic;Delantero;Galatasaray
+Breel Embolo;Delantero;Mónaco
+Ruben Vargas;Delantero;Augsburg
+Noah Okafor;Delantero;RB Salzburgo
+Christian Fassnacht;Delantero;Young Boys

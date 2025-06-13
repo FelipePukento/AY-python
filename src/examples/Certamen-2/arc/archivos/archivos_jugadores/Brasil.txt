@@ -1,0 +1,26 @@
+Alisson;Arquero;Liverpool
+Éderson;Arquero;Manchester City
+Weverton;Arquero;Palmeiras
+Dani Alves;Defensor;Pumas
+Danilo;Defensor;Juventus
+Alex Sandro;Defensor;Juventus
+Alex Telles;Defensor;Sevilla
+Thiago Silva;Defensor;Chelsea
+Marquinhos;Defensor;Paris Saint-Germain
+Éder Militao;Defensor;Real Madrid
+Bremer;Defensor;Juventus
+Fabinho;Volante;Liverpool
+Casemiro;Volante;Manchester United
+Fred;Volante;Manchester United
+Bruno Guimaraes;Volante;Newcastle United
+Éverton Ribeiro;Volante;Flamengo
+Lucas Paquetá;Volante;West Ham
+Neymar;Delantero;Paris Saint-Germain
+Antony;Delantero;Manchester United
+Raphinha;Delantero;Barcelona
+Vinicius Júnior;Delantero;Real Madrid
+Richarlison;Delantero;Tottenham
+Gabriel Jesus;Delantero;Arsenal
+Rodrygo;Delantero;Real Madrid
+Pedro;Delantero;Flamengo
+Gabriel Martinelli;Delantero;Arsenal

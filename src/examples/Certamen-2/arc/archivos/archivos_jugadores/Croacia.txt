@@ -1,0 +1,26 @@
+Dominik Livakovic;Portero;Dinamo Zagreb
+Ivica Ivusic;Portero;Osijek
+Ivo Grbic;Portero;Atlético de Madrid
+Josip Stanisic;Defensor;Bayern Munich
+Borna Barisic;Defensor;Rangers
+Josip Sutalo;Defensor;Dinamo Zagreb
+Dejan Lovren;Defensor;Zenit St Petersburg
+Borna Sosa;Defensor;Stuttgart
+Josko Gvardiol;Defensor;RB Leipzig
+Domagoj Vida;Defensor;AEK Atenas
+Josip Juranovic;Defensor;Celtic
+Martin Erlic;Defensor;Sassuolo
+Lovro Majer;Volante;Rennes
+Mateo Kovacic;Volante;Chelsea
+Luka Modric;Volante;Real Madrid
+Marcelo Brozovic;Volante;Inter
+Mario Pasalic;Volante;Atalanta
+Nikola Vlasic;Volante;Torino
+Luka Sucic;Volante;RB Salzburgo
+Kristijan Jakic;Volante;Eintracht Frankfurt
+Ivan Perisic;Delantero;Tottenham
+Andrej Kramaric;Delantero;Hoffenheim
+Marko Livaja;Delantero;Hajduk Split
+Bruno Petkovic;Delantero;Dinamo Zagreb
+Ante Budimir;Delantero;Osasuna
+Mislav Orsic;Delantero;Dinamo Zagreb

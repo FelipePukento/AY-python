@@ -1,0 +1,26 @@
+Saad Al Sheeb;Portero;Al-Sadd
+Meshaal Barsham;Portero;Al-Sadd
+Yousuf Hassan;Portero;Al-Gharafa
+Pedro Miguel;Defensor;Al-Sadd
+Musaab Khidir;Defensor;Al-Sadd
+Tarek Salman;Defensor;Al-Sadd
+Bassam Al Rawi;Defensor;Al-Duhail
+Khoukhi Boualem;Defensor;Al-Sadd
+Abdelkarim Hassan;Defensor;Al-Sadd
+Homam Al Amin;Defensor;Al-Gharafa
+Jassim Jabir;Defensor;Al-Waab
+Ismaeel Mohammad;Mediocampista;Villarreal
+Ali Asad;Mediocampista;Al-Sadd
+Mohammed Waad;Mediocampista;Al-Sadd
+Salem Al Hajri;Mediocampista;Al-Sadd
+Assim Madibo;Mediocampista;Al-Duhail
+Mustafa Meshaal;Mediocampista;Al-Sadd
+Karim Boudiaf;Mediocampista;Al-Duhail
+Abdulaziz Hatim;Mediocampista;Al-Rayyan
+Naif Al Hadhrami;Delantero;Al-Rayyan
+Hassan Al Haydos;Delantero;Al-Sadd
+Akram Afif;Delantero;Al-Sadd
+Almoez Ali;Delantero;Al-Duhail
+Mohammed Muntari;Delantero;Al-Duhail
+Ahmed Alaa;Delantero;Al-Gharafa
+Khalid Muneer;Delantero;Al-Wakrah
