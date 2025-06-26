@@ -1,34 +1,60 @@
-'''5. [50 %] Escriba la función fechas-por-especie(nombre_archivo), que recibe como parámetro el nombre de 
-un archivo con el formato descrito. La función debe crear un archivo especies_por_fecha.txt,
- que agrupe por fecha todas las especies observadas ese día,
- ordenadas alfabéticamente. Las fechas deben aparecer ordenadas cronológicamente.'''
+'''3.-Función:	agrupa_por_ciudad_y_especie(nombre_archivo)	[30	%]
+Objetivo: Agrupar	las	observaciones	por	ciudad	y	por	especie,	generando	un	archivo	
+separado	para	cada	especie.
+Instrucciones:
+- Leer	el	archivo. #1
+- Agrupar	las	observaciones	por	especie.
+- Listar	las	ciudades	y	fechas	donde	fue	observada	cada	especie.
+- Crear	un	archivo	para	cada	especie	llamado	vistos_por_ciudad_<especie>.txt.
+- Ordenar	las	ciudades	alfabéticamente	y	las	fechas	cronológicamente.
+'''
+count = 0
+archivo = open("src\examples\Pre-Certamen\pajaros.txt","r", encoding="UTF-8")
 
-#por cada especie, guardar en un archivo las fechas en las cual se registre
-#mes
+observaciones = {
+#{'Pelicano': {'Valparaiso': ['2019/12/21', '2019/12/25', '2019/12/29', '2020/01/06']}
+#'Gaviota': {'Valparaiso': ['2019/12/21', '2019/12/25', '2020/01/02', '2020/01/06']},
+#'Chercan': {'Valparaiso': ['2019/12/21', '2020/01/02'], 'Curico': ['2019/12/23'], 'Santiago': ['2019/12/26', '2020/01/07']}, 
+#'Zorzal': {'Santiago': ['2019/12/22', '2020/01/03']},
+#'Tenca': {'Santiago': ['2019/12/22', '2019/12/30', '2020/01/03']},
+}
+
+for line in archivo:
+    line = line.strip()
+    dato = line.split(":")
+    date = dato[0]
+    city = dato[1]
+    aves = dato[2].split(",")
+    for especie in aves:
+        if especie not in observaciones:
+            observaciones[especie] = {}
+        if city not in observaciones[especie]:
+            observaciones[especie][city] = []
+        observaciones[especie][city].append(date)
+        observaciones[especie][city].sort()
+#{'Pelicano': {'Valparaiso': ['2019/12/21', '2019/12/25', '2019/12/29', '2020/01/06']}
+#'Gaviota': {'Valparaiso': ['2019/12/21', '2019/12/25', '2020/01/02', '2020/01/06']},
+#'Chercan': {'Valparaiso': ['2019/12/21', '2020/01/02'], 'Curico': ['2019/12/23'], 'Santiago': ['2019/12/26', '2020/01/07']}, 
+#'Zorzal': {'Santiago': ['2019/12/22', '2020/01/03']},
+#'Tenca': {'Santiago': ['2019/12/22', '2019/12/30', '2020/01/03']},
+
+#Chercan:
+#Curico:
+#2019/12/15
+#Santiago:
+#2019/12/15
+#2019/12/20
+#Valparaiso:
+#2019/12/17
 
 
-def fpe(nombre_archivo):
-    diccionario = {
-       #especie : [fechas]
-    }
-    archivo = open(nombre_archivo, "r", encoding="UTF-8")
-    for line in archivo:
-        data = line.strip().split(":")
-        date = data[0].split("/")
-        city = data[1]
-        especies = data[2].split(",")
-        for i in especies:
-            if i not in diccionario:
-                diccionario[i] = []
-            diccionario[i].append(date)
-    for key in diccionario:
-        nuevo_archivo = open(f"{key}_dias_visto.txt","w",encoding="UTF-8")
-        for date in diccionario[key]:
-            nuevo_archivo.write(f"El año {date[0]} en el mes {date[1]} en la fecha {date[2]} se vio un {key} \n")
 
 
-
-
-
-
-fpe("src\examples\Pre-Certamen\pajaros.txt")
+for especie in observaciones:
+    new_arch = open(f"src/examples/Pre-Certamen/archivos_v2/vistos_por_ciudad_{especie}.txt","w", encoding="UTF-8")
+    new_arch.write(f"{especie}: \n")
+    print(observaciones[especie])
+    for city in observaciones[especie]:
+        new_arch.write(f"\n{city}:\n")
+        for fecha in observaciones[especie][city]:
+            new_arch.write(f"{fecha}\n")
