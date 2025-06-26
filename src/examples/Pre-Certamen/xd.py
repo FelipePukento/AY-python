@@ -9,7 +9,7 @@ Instrucciones:
 - Ordenar	las	ciudades	alfabéticamente	y	las	fechas	cronológicamente.
 '''
 count = 0
-archivo = open("src\examples\Pre-Certamen\pajaros.txt","r", encoding="UTF-8")
+archivo = open("src/examples/Pre-Certamen/pajaros.txt","r", encoding="UTF-8")
 
 observaciones = {
 #{'Pelicano': {'Valparaiso': ['2019/12/21', '2019/12/25', '2019/12/29', '2020/01/06']}
@@ -18,7 +18,7 @@ observaciones = {
 #'Zorzal': {'Santiago': ['2019/12/22', '2020/01/03']},
 #'Tenca': {'Santiago': ['2019/12/22', '2019/12/30', '2020/01/03']},
 }
-
+orden = []
 for line in archivo:
     line = line.strip()
     dato = line.split(":")
@@ -30,6 +30,8 @@ for line in archivo:
             observaciones[especie] = {}
         if city not in observaciones[especie]:
             observaciones[especie][city] = []
+        if city not in orden:
+            orden.append(city)
         observaciones[especie][city].append(date)
         observaciones[especie][city].sort()
 #{'Pelicano': {'Valparaiso': ['2019/12/21', '2019/12/25', '2019/12/29', '2020/01/06']}
@@ -48,13 +50,14 @@ for line in archivo:
 #2019/12/17
 
 
-
+orden.sort()
 
 for especie in observaciones:
     new_arch = open(f"src/examples/Pre-Certamen/archivos_v2/vistos_por_ciudad_{especie}.txt","w", encoding="UTF-8")
     new_arch.write(f"{especie}: \n")
     print(observaciones[especie])
-    for city in observaciones[especie]:
-        new_arch.write(f"\n{city}:\n")
-        for fecha in observaciones[especie][city]:
-            new_arch.write(f"{fecha}\n")
+    for city in orden:
+        if city in observaciones[especie]:
+            new_arch.write(f"\n{city}:\n")
+            for fecha in observaciones[especie][city]:
+                new_arch.write(f"{fecha}\n")
